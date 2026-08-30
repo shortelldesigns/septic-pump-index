@@ -1,0 +1,106 @@
+{
+  "jurisdiction": "Clallam County, Washington",
+  "jurisdiction_code": "WA-CLALLAM",
+  "role": "designer",
+  "last_updated": "2026-08-29",
+  "source": {
+    "title": "2026 State Licensed Septic System Designers That Provide Inspection Services",
+    "url": "https://clallamcountywa.gov/DocumentCenter/View/4653/Septic-Maintenance-Providers-PDF",
+    "document_date": "2026-06-03",
+    "retrieved": "2026-08-29",
+    "pdf_pages": "page 2 of the O&M PDF",
+    "notes": [
+      "The PDF: Only SEPTIC DESIGNERS can perform inspections for Food Service permit/annual permitting, Building Permits, Boundary Line Adjustments, Lot Combinations, Land Divisions and Conditional Use Permits.",
+      "The PDF: This list only shows local Septic Designers available to conduct these types of inspections and is not inclusive of all Washington State Licensed Septic Designers.",
+      "Shold Excavating designer-side phone is transcribed as printed (360-385-048). The last digit is not in that text layer."
+    ]
+  },
+  "designer_count": 6,
+  "designers": [
+    {
+      "name": "Absolute Earthworks",
+      "inspectors": "Christopher Morton",
+      "address": "4091 Blue Mountain Rd (MAILING ONLY), Port Angeles, WA 98362",
+      "city": "Port Angeles",
+      "phone": "360-620-2804",
+      "email": "chris@absoluteearthworks.com",
+      "website": "www.facebook.com/Absoluteearthworks",
+      "role": "designer",
+      "source_url": "https://clallamcountywa.gov/DocumentCenter/View/4653/Septic-Maintenance-Providers-PDF",
+      "source_document": "2026 State Licensed Septic System Designers That Provide Inspection Services (reverse of the O&M PDF). Printed date on PDF: 6.03.26. Clallam County Environmental Health. The PDF notes this local list is not inclusive of all Washington State licensed septic designers.",
+      "source_document_date": "2026-06-03",
+      "source_retrieved": "2026-08-29"
+    },
+    {
+      "name": "Creative Design Solutions",
+      "inspectors": "Justin Vincent",
+      "address": "P.O. Box 2787, Port Angeles, WA 98362",
+      "city": "Port Angeles",
+      "phone": "360-457-6353",
+      "email": "Justin@cds4you.com",
+      "website": "www.cds4you.com",
+      "role": "designer",
+      "source_url": "https://clallamcountywa.gov/DocumentCenter/View/4653/Septic-Maintenance-Providers-PDF",
+      "source_document": "2026 State Licensed Septic System Designers That Provide Inspection Services (reverse of the O&M PDF). Printed date on PDF: 6.03.26. Clallam County Environmental Health. The PDF notes this local list is not inclusive of all Washington State licensed septic designers.",
+      "source_document_date": "2026-06-03",
+      "source_retrieved": "2026-08-29"
+    },
+    {
+      "name": "Olympic On-site, LLC",
+      "inspectors": "Ronald A. Garcelon",
+      "address": "P.O. Box 3002, Port Angeles, WA 98362",
+      "city": "Port Angeles",
+      "phone": "360-461-3575",
+      "email": "info@olympiconsite.com",
+      "website": "www.olympiconsite.com",
+      "role": "designer",
+      "source_url": "https://clallamcountywa.gov/DocumentCenter/View/4653/Septic-Maintenance-Providers-PDF",
+      "source_document": "2026 State Licensed Septic System Designers That Provide Inspection Services (reverse of the O&M PDF). Printed date on PDF: 6.03.26. Clallam County Environmental Health. The PDF notes this local list is not inclusive of all Washington State licensed septic designers.",
+      "source_document_date": "2026-06-03",
+      "source_retrieved": "2026-08-29"
+    },
+    {
+      "name": "Shold Excavating, Inc.",
+      "inspectors": "Jess Godsalve & Mindy Placos",
+      "address": "P.O. Box 179 (mailing)/ 121 Pomwell Rd, Port Hadlock, WA 98339",
+      "city": "Port Hadlock",
+      "phone": "360-385-048",
+      "phone_note": "Printed on the designer side of the PDF as 360-385-048 (text layer ends there). Not completed from the O&M side of the same PDF.",
+      "email": "office@cottonshold.com",
+      "website": "www.cottonshold.com",
+      "role": "designer",
+      "source_url": "https://clallamcountywa.gov/DocumentCenter/View/4653/Septic-Maintenance-Providers-PDF",
+      "source_document": "2026 State Licensed Septic System Designers That Provide Inspection Services (reverse of the O&M PDF). Printed date on PDF: 6.03.26. Clallam County Environmental Health. The PDF notes this local list is not inclusive of all Washington State licensed septic designers.",
+      "source_document_date": "2026-06-03",
+      "source_retrieved": "2026-08-29"
+    },
+    {
+      "name": "Soils Application, LLC",
+      "inspectors": "Eric Hibbard, Kyle Kiesser & Tristin Dodson",
+      "address": "P.O. Box 1120, Carlsborg, WA 98324",
+      "city": "Carlsborg",
+      "phone": "360-683-6300",
+      "email": "info@soilsapplication.com",
+      "website": "www.soilsapplication.com",
+      "role": "designer",
+      "source_url": "https://clallamcountywa.gov/DocumentCenter/View/4653/Septic-Maintenance-Providers-PDF",
+      "source_document": "2026 State Licensed Septic System Designers That Provide Inspection Services (reverse of the O&M PDF). Printed date on PDF: 6.03.26. Clallam County Environmental Health. The PDF notes this local list is not inclusive of all Washington State licensed septic designers.",
+      "source_document_date": "2026-06-03",
+      "source_retrieved": "2026-08-29"
+    },
+    {
+      "name": "High Divide, LLC",
+      "inspectors": "Tyler Kerschner",
+      "address": "480 Spruce Rd, Forks, WA 98331",
+      "city": "Forks",
+      "phone": "360-640-4172",
+      "email": "highdivideengineering@gmail.com",
+      "website": "www.highdivideengineering.com",
+      "role": "designer",
+      "source_url": "https://clallamcountywa.gov/DocumentCenter/View/4653/Septic-Maintenance-Providers-PDF",
+      "source_document": "2026 State Licensed Septic System Designers That Provide Inspection Services (reverse of the O&M PDF). Printed date on PDF: 6.03.26. Clallam County Environmental Health. The PDF notes this local list is not inclusive of all Washington State licensed septic designers.",
+      "source_document_date": "2026-06-03",
+      "source_retrieved": "2026-08-29"
+    }
+  ]
+}

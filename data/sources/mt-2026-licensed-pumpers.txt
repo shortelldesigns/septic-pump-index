@@ -1,0 +1,169 @@
+         2026 Licensed Montana Septic Pumpers As of May 20, 2026
+
+
+            County Business
+LIC #                            Company
+S-1185      Beaverhead           BADGER PASS SEPTIC LLC
+S-596       Beaverhead           KLASEN SEPTIC PUMPING
+S-998       Beaverhead           WELBORN AQUA HAUL & FIRE SERVICES, INC
+S-1205      Big Horn             BCL ENTERPRISES LLC
+S-1157      Big Horn             MONTANA SEPTIC
+S-1083      Broadwater           KERPLUNK LLC
+S-1147      Broadwater           PITSTOP LLC
+S-1198      Carbon               BARETOOTH ESSENTIALS
+S-1179      Carbon               CARBON SEWER & SEPTIC LLC
+S-1195      Carbon               WYTANA SERVICES INC
+S-986       Cascade              ROCKY MOUNTAIN PORTABLES
+S-1200      Cascade              BROWN TROUT PORTABLES & SEPTIC LLC
+S-787       Cascade              CARP'S DRAIN CLEANING, INC
+S-1199      Cascade              CASCADE PORTABLES LLC
+S-1055      Cascade              DB SEPTIC SOLUTIONS
+S-1029      Cascade              GRIS ENTERPRISES
+S-125       Cascade              M J PEET SEPTIC TANK CLEANING
+S-896       Cascade              MONTANA WASTE SYSTEMS INC
+S-1104      Cascade              SKILFUL FABRICATION & CONSTRUCTION LLC
+S-1172      Cascade              TLC DRAIN CLEANING SEWER AND SEPTIC SERVICES
+S-1177      Cascade              VBOS ROOTIN TOOTIN POOPERS
+S-959       Custer               AFAB SEPTIC AND SEWER
+S-1137      Custer               BEAR BUTTZ SEPTIC
+S-1141      Custer               PROGRESSIVE CLEANING SERVICES INC
+S-1202      Custer               QUALITY SEPTIC AND SEWER
+S-1207      Dawson               MON-DAK CONSTRUCTION SUPPLY
+S-1158      Deer Lodge           GREAT DIVIDE SEPTIC PUMPING
+S-1038      Deer Lodge           RD'S SEPTIC PUMPING
+         County Business
+LIC #                      Company
+S-1054   Fallon            B & B SEPTIC SERVICES, INC
+S-1115   Fallon            G&G GARBAGE LLC
+S-944    Fergus            ARROW SEPTIC SERVICE
+S-701    Fergus            BAYSIDE DISPOSAL INC
+S-1164   Fergus            DOOTY CALLS
+S-824    Flathead          A-1 SANITATION INC
+S-989    Flathead          IRC INC
+S-1165   Flathead          MR HANKEY'S PORTA POTTIES, INC
+S-1091   Flathead          PEDERSEN & COMPANY PUMPING INC
+S-1125   Flathead          POP A SQUAT PORTABLES
+S-876    Flathead          RAY BAIER SEPTIC SERVICE LLC
+S-383    Flathead          READY FREDDY, INC.
+S-1194   Flathead          SEPTIC BUSTERS LLC
+S-1001   Flathead          SHUR CLEAN PORTABLE TOILETS, INC
+S-1130   Gallatin          ALL COUNTRY SEPTIC TANK PUMPING
+S-1189   Gallatin          CLEARBLU BUSINESS SERVICES
+S-1020   Gallatin          GRAYLING ENTERPRISES INC
+S-978    Gallatin          LITTLE STINKERS - ARBOR MEDIC, INC
+S-980    Gallatin          ROBBINS SEPTIC - SEWER MASTER
+S-937    Gallatin          SCENIC CITY ENTERPRISES, INC.
+S-966    Gallatin          TLC LANDSCAPE & EXCAVATION, INC.
+S-968    Hill              C&C EXCAVATION, INC.
+S-799    Hill              HAVRE SAND & GRAVEL INC
+S-1208   Hill              HI LINE SEPTIC SERVICE
+S-590    Hill              T.P. CONSTRUCTION, INC.
+S-1153   Jefferson         PINE STALLS
+S-1140   Jefferson         TOM PETERS TRUCKING AND FIRE SERVICES
+S-1180   Lake              OUT BACK TOILETS, LLC
+S-879    Lake              RAINBOW SEPTIC SERVICE
+S-1046   Lewis And Clark   BOB'S VALLEY SERVICE INC
+S-1092   Lewis And Clark   COWBOY SEPTIC SERVICE
+         County Business
+LIC #                      Company
+S-1182   Lewis And Clark   HELENA SEPTIC, LLC
+S-1156   Lewis And Clark   JUNGERS RESOURCES LLC
+S-873    Lewis And Clark   LINCOLN SEWER DISTRICT
+S-1148   Lewis And Clark   LITTLE JOHNS PORTABLES & SEPTIC SERVICE, LLC
+S-1181   Lewis And Clark   ROCKY MOUNTAIN SEPTIC SERVICES LLC
+S-1181   Lewis And Clark   ROCKY MOUNTAIN SEPTIC SERVICES LLC
+S-1074   Lewis And Clark   SONNY'S SEPTIC TANK CLEANING SERVICE, LLC
+S-1206   Lewis And Clark   T BENCH LLC
+S-740    Liberty           DON'S SEPTIC SERVICE
+S-856    Lincoln           JMF SERVICES INC
+S-1142   Lincoln           M AND H SEPTIC PUMPING AND PORTA POTTIES
+S-1174   Lincoln           SITE SERVICES SOLUTIONS INC
+S-1161   Madison           HIGH COUNTRY IRRIGATION AND LANDSCAPING
+S-1010   Madison           SOUTH WEST SEPTIC
+S-1122   Madison           SPIFFY BIFFY PORTABLE TOILETS, INC
+S-1187   Mccone            FRANKLIN SERVICES
+S-1101   Meagher           MARTINSDALE COLONY INC
+S-1210   Meagher           SMITH RIVER FLOATERS & SEPTIC
+S-816    Mineral           LINCOLN'S SILVER $
+S-1021   Mineral           SUPERIOR SEPTIC, INC
+S-1044   Missoula          AERO POWER VAC, INC
+S-1188   Missoula          DIRTY TREASURES LLC
+S-1216   Missoula          GARDEN CITY PLUMBING & HEATING
+S-887    Missoula          HALSTEADS OF MONTANA INC
+S-1201   Missoula          PONDEROSA PORTABLES LLC/CWS LLC
+S-1082   Missoula          ROCKN B SEPTIC SERVICE
+S-1132   Missoula          SADDLEBACK CONTRACTING LLC
+S-1094   Missoula          SANITATION SOLUTIONS
+S-834    Missoula          SWEET PEA SEWER & SEPTIC
+S-878    Musselshell       HEAVY WATER HAULERS INC
+S-1171   Out Of State      ASAP SEPTIC PUMPING & DRAIN CLEANING LLC
+         County Business
+LIC #                      Company
+S-1053   Out Of State      BAKER COMMODITIES INC
+S-970    Out Of State      GUSTAFSON SEPTIC SERVICE, INC.
+S-982    Out Of State      IVERSON SANITATION
+S-1203   Out Of State      KG&T SEPTIC INC
+S-1204   Out Of State      KINGS THRONES
+S-1033   Out Of State      MONDAK PORTABLES, LLC
+S-1197   Out Of State      TAMMY'S ALLIANCE LLC
+S-837    Park              ABSAROKA SEPTIC PUMPING
+S-1170   Park              ADVANCED WASTE WATER SPECIALISTS
+S-1154   Park              BROWNS SEPTIC SERVICE
+S-1106   Park              COFFEE CREEK ESPRESSO
+S-828    Park              CRAZY MOUNTAIN INDUSTRIES INC
+S-1211   Park              PETER & BAILEY INVESTMENTS LLLP
+S-1213   Park              SILO ESPRESSO
+S-1209   Park              SWEET GRASS CONCRETE AND AGGREGATE LLC
+S-1215   Park              THE STOOL BUS INC
+S-1163   Phillips          PUMP AND DUMP SEPTIC SERVICE
+S-1184   Pondera           406 FAMILY SEPTIC
+S-949    Pondera           U.F.I. SANITATION SERVICE
+S-1190   Pondera           WHEELER SEPTIC LLC
+S-1167   Ravalli           BITTERROOT VALLEY SEPTIC LLC
+S-833    Ravalli           BROWN'S SEPTIC SERVICES
+S-1169   Ravalli           DJ'S SEPTIC SERVICE
+S-456    Ravalli           ECKERTS PATRIOT PUMPERS
+S-1191   Ravalli           MONTANA SEPTIC & SEWER LLC
+S-1043   Richland          DOORBUST'N PORTABLES & SEPTIC SERVICE, LLC
+S-999    Richland          HURLEY ENTERPRISES INC
+S-924    Roosevelt         E & A VAC
+S-1078   Roosevelt         PUMPERITE
+S-821    Roosevelt         SCOTT'S SERVICES
+S-1042   Rosebud           D & R DISPOSAL
+         County Business
+LIC #                      Company
+S-1178   Sanders           DIGGING DEEP EXCAVATION
+S-1025   Sanders           SORLIE EXCAVATING, INC
+S-1159   Sanders           UFFDA LLC
+S-1128   Sheridan          NORTH EASTERN SEPTIC SERVICES LLC
+S-1069   Silver Bow        BECKMAN CONTRACTING INC
+S-1102   Silver Bow        CLR SERVICES INC
+S-1214   Silver Bow        HOFFMAN CONTRACTING LLC
+S-825    Silver Bow        HOFFMAN'S R & M SERVICES
+S-595    Silver Bow        HUNTER BROTHERS CONSTRUCTION, INC
+S-1196   Silver Bow        RIGHT NOW RENTALS AND SEPTIC
+S-1175   Stillwater        BIG SKY PORTABLES LLC
+S-1149   Stillwater        R.L. FRANK SEPTIC SERVICE INC
+S-849    Sweet Grass       LAVERELL'S , INC
+S-1129   Sweet Grass       SWEET GRASS PORTABLES
+S-1058   Valley            B & B PUMPING
+S-1040   Valley            BOWKER PUMPING LLC
+S-1099   Valley            SCOTTIE EXPRESS WASH
+S-788    Valley            T & R TRUCKING, INC.
+S-1031   Wheatland         SPRINGWATER'S SEPTIC PUMPING
+S-1192   Yellowstone       ANDERSEN SEWER LLC
+S-1124   Yellowstone       ARROW SEPTIC AND SEWER SERVICE LLC
+S-749    Yellowstone       BILLINGS CONSTRUCTION SUPPLY, INC
+S-1062   Yellowstone       BOGY INC
+S-1150   Yellowstone       BRENDA FRANK SEPTIC TANK SERVICE
+S-1126   Yellowstone       C BAR J MECHANICAL
+S-1087   Yellowstone       COTTER'S SEWER INC
+S-1212   Yellowstone       KERNOW INC
+S-996    Yellowstone       PACE
+S-1119   Yellowstone       PORTABLE RESTROOM SERVICE LLC
+S-1151   Yellowstone       TLC-PATRIOT SEPTIC AND EXCAVATION LLC
+S-1139   Yellowstone       TRU PIPE INC
+         County Business
+LIC #                      Company
+S-1155   Yellowstone       WELLS BUILT HOMES INC
+
