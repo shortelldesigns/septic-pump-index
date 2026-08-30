@@ -375,3 +375,203 @@ code, .path {
   background: var(--paper-2);
   padding: 0.05rem 0.28rem;
 }
+
+/* === Septic conversion pass (append to css/site.css) =====================
+   Tokens unchanged. New classes only. Do not copy nth-child labels onto
+   North Dakota / Montana tables — column order is different.
+   ====================================================================== */
+
+nav.primary a {
+  min-height: 2.75rem;
+  display: inline-flex;
+  align-items: center;
+}
+
+.cta-cards {
+  margin-top: 0.35rem;
+}
+.cta-cards .card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1rem 1.05rem 1.1rem;
+  border-top: 4px solid var(--forest);
+}
+.cta-cards .card h3 {
+  margin: 0 0 0.15rem;
+  font-size: 1.12rem;
+  line-height: 1.25;
+}
+.cta-cards .card h3 a {
+  color: var(--navy);
+  text-decoration: none;
+}
+.cta-cards .card h3 a:hover,
+.cta-cards .card h3 a:focus {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.cta-cards .card p { margin: 0 0 0.7rem; flex: 1; }
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: flex-start;
+  min-height: 2.75rem;
+  padding: 0.4rem 1rem;
+  background: var(--forest);
+  color: #f6f3ea;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.92rem;
+  border: 2px solid var(--forest);
+}
+.btn:visited { color: #f6f3ea; }
+.btn:hover, .btn:focus {
+  background: var(--navy);
+  border-color: var(--navy);
+  color: #f6f3ea;
+}
+.btn.secondary {
+  background: transparent;
+  color: var(--navy);
+  border-color: var(--navy);
+}
+.btn.secondary:visited { color: var(--navy); }
+.btn.secondary:hover, .btn.secondary:focus {
+  background: var(--navy);
+  color: #f6f3ea;
+}
+
+@media (min-width: 640px) {
+  .flow { grid-template-columns: 1fr; }
+  .cards.two.cta-cards { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 56rem) {
+  .flow { grid-template-columns: 1fr 1fr 1fr; }
+}
+
+.callout.compact { padding: 0.75rem 0.95rem; }
+.callout.compact h2 { font-size: 1.05rem; margin-bottom: 0.45rem; }
+.key {
+  display: grid;
+  gap: 0.4rem 1.1rem;
+  margin: 0;
+  padding: 0;
+}
+.key div {
+  display: grid;
+  grid-template-columns: 7.5rem 1fr;
+  gap: 0.45rem;
+  align-items: baseline;
+}
+.key dt {
+  margin: 0;
+  font-weight: 700;
+  color: var(--navy);
+  font-family: "Segoe UI", system-ui, sans-serif;
+  font-size: 0.88rem;
+}
+.key dd { margin: 0; font-size: 0.92rem; }
+@media (min-width: 640px) {
+  .key { grid-template-columns: 1fr 1fr; }
+}
+
+.hauler-table a[href^="tel:"] {
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.hauler-table a[href^="tel:"]:hover { text-decoration: underline; }
+
+@media (min-width: 48rem) {
+  .hauler-table th:nth-child(1),
+  .hauler-table td:nth-child(1) {
+    position: sticky;
+    left: 0;
+    z-index: 1;
+    min-width: 11rem;
+  }
+  .hauler-table thead th:nth-child(1) {
+    z-index: 3;
+    background: var(--navy);
+  }
+  .hauler-table tbody tr:nth-child(odd) td:nth-child(1) { background: #fff; }
+  .hauler-table tbody tr:nth-child(even) td:nth-child(1) { background: var(--paper-2); }
+}
+
+@media (max-width: 47.99rem) {
+  .hauler-table { min-width: 0; border: 0; }
+  .hauler-table caption { padding: 0.65rem 0.2rem; background: transparent; }
+  .hauler-table thead { display: none; }
+  .hauler-table tbody, .hauler-table tr, .hauler-table td { display: block; width: 100%; }
+  .hauler-table tbody tr {
+    display: grid;
+    gap: 0.15rem;
+    background: #fff;
+    border: 1px solid var(--rule);
+    border-left: 5px solid var(--forest);
+    padding: 0.85rem 0.95rem 1rem;
+    margin: 0 0 0.75rem;
+  }
+  .hauler-table tbody tr:nth-child(even) td { background: transparent; }
+  .hauler-table td {
+    display: grid;
+    grid-template-columns: 7.25rem 1fr;
+    gap: 0.35rem;
+    border: 0;
+    padding: 0.18rem 0;
+  }
+  .hauler-table td::before {
+    content: "";
+    font-family: "Segoe UI", system-ui, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--forest);
+    padding-top: 0.2rem;
+  }
+  .hauler-table td:nth-child(1)::before { content: "Name"; }
+  .hauler-table td:nth-child(2)::before { content: "Street"; }
+  .hauler-table td:nth-child(3)::before { content: "City"; }
+  .hauler-table td:nth-child(4)::before { content: "State"; }
+  .hauler-table td:nth-child(5)::before { content: "ZIP"; }
+  .hauler-table td:nth-child(6)::before { content: "Phone"; }
+  .hauler-table td:nth-child(7)::before { content: "Contact"; }
+  .hauler-table td:nth-child(8)::before { content: "DEP no."; }
+
+  .hauler-table td:nth-child(1) { order: 1; }
+  .hauler-table td:nth-child(6) { order: 2; }
+  .hauler-table td:nth-child(3) { order: 3; }
+  .hauler-table td:nth-child(7) { order: 4; }
+  .hauler-table td:nth-child(2) { order: 5; }
+  .hauler-table td:nth-child(4) { order: 6; }
+  .hauler-table td:nth-child(5) { order: 7; }
+  .hauler-table td:nth-child(8) { order: 8; }
+
+  .hauler-table td:nth-child(1) {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.08rem;
+    font-weight: 700;
+    color: var(--navy);
+    grid-template-columns: 1fr;
+    margin-bottom: 0.25rem;
+  }
+  .hauler-table td:nth-child(1)::before { display: none; }
+
+  .hauler-table td:nth-child(6) { margin: 0.15rem 0 0.45rem; align-items: center; }
+  .hauler-table td:nth-child(6) a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.75rem;
+    padding: 0.3rem 0.85rem;
+    background: var(--navy);
+    color: #f6f3ea;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .hauler-table td:nth-child(6) a:visited { color: #f6f3ea; }
+}
