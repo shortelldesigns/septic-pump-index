@@ -16,6 +16,7 @@ Retrieve date: **29 August 2026** (US/Pacific; fetch ran 30 August 2026 UTC).
 | --- | --- | --- | --- |
 | Montana DEQ 2026 licensed septic pumpers | https://deq.mt.gov/files/Land/SolidWaste/Documents/pumpers/2026%20licensed%20pumpers.pdf | As of 20 May 2026 | 152 unique license numbers. Phone not on PDF. Archived `data/sources/mt-2026-licensed-pumpers.pdf`. |
 | ND DEQ 2026 Annual Active ND Sanitary Pumper List | https://deq.nd.gov/publications/WQ/2_NDPDES/SepticPumper/rptBusnList.pdf | Licensed on or before 23 July 2026 | 125 Class I/II pumpers. Archived `data/sources/nd-2026-class-i-ii.pdf`. |
+| Iowa DNR Licensed Septic Tank Cleaners (Pumpers) | https://www.iowadnr.gov/media/8587/download?inline= | PDF metadata 19 August 2026 | 223 license rows (220 unique license numbers; three numbers appear twice on the PDF for different firms). Archived `data/sources/ia-dnr-licensed-septic-tank-cleaners-2026-08-19.pdf`. Program: https://www.iowadnr.gov/environmental-protection/water-quality/private-sewage-disposal-and-septage/septic-tank-cleaning |
 | Clallam County WA licensed septic pumpers | https://clallamcountywa.gov/DocumentCenter/View/4655/Septic-Tank-Pumpers-PDF | Printed 17 April 2026 | 10 pumpers. Archived `data/sources/clallam-septic-tank-pumpers.pdf`. |
 | Clallam County WA septic maintenance providers | https://clallamcountywa.gov/DocumentCenter/View/4653/Septic-Maintenance-Providers-PDF | Printed 3 June 2026 | O&M inspectors (pumping is not an inspection). Archived `data/sources/clallam-septic-maintenance-providers.pdf`. |
 
