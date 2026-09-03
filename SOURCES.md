@@ -8,6 +8,7 @@ Retrieve date: **29 August 2026** (US/Pacific; fetch ran 30 August 2026 UTC).
 | --- | --- | --- | --- |
 | York County Solid Waste Authority licensed septage haulers, posted by Windsor Township | https://windsortwp.com/wp-content/uploads/2026-Septage-Haulers.pdf | As of February 2026 | curl + pdftotext -layout. 43 haulers. Archived `data/sources/york-pa-2026-septage-haulers.pdf`. DEP transporter numbers not printed. |
 | Geauga Public Health registered septic pumpers | https://gphohio.org/wp-content/uploads/sites/17/2026/07/Geauga-County-Registered-Pumpers-2026_722026.pdf | Updated 2 July 2026 | curl + pdftotext -layout. 30 pumpers. Archived `data/sources/geauga-oh-registered-pumpers-2026-07-02.pdf`. Contact person not on this list. |
+| Lake County General Health District septage haulers | https://www.lcghd.org/wp-content/uploads/2026/03/HAULER-030326.pdf | Footer date 03/03/2026 | curl + pdftotext -layout. 26 named haulers (PDF footer prints 27 TOTAL; empty comma-only slot on page 1 omitted). Phone missing on PORTA BANDIT LLC. Archived `data/sources/lake-oh-hauler-2026-03-03.pdf`. Parent: https://www.lcghd.org/om-program-septic/. |
 | Shawano County Planning and Development licensed pumpers / POWTS maintainers | https://www.co.shawano.wi.us/i_shawano/d/Planning_and_Development/licensed_pumpers.pdf | Updated 19 May 2026 | curl + pdftotext -layout. 17 pumpers + 4 POWTS maintainers (No Pumping). Archived `data/sources/shawano-wi-licensed-pumpers.pdf`. DNR license numbers not printed. |
 
 ## Succeeded — additional official rosters also shipped in v1
