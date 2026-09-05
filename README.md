@@ -4,7 +4,7 @@ Static first version of a U.S. directory to find a licensed septic pumper or ins
 
 **Homepage line:** Find a licensed septic pumper or inspector in your county — before the tank backs up.
 
-**Byline:** Stephen Shortell / Septic Pump Index (footer only on public HTML)
+**Byline:** Shortell Designs / Septic Pump Index (public byline updated from personal name) (footer only on public HTML)
 
 **Published:** 29 August 2026 (US/Pacific)
 

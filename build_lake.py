@@ -315,7 +315,7 @@ def main():
   </main>
   <footer class="site">
     <div class="inner">
-      <p class="byline"><strong>Septic Pump Index</strong> is a project by Stephen Shortell. Last updated 2 September 2026 (US/Pacific).</p>
+      <p class="byline"><strong>Septic Pump Index</strong> is a project by Shortell Designs. Last updated 2 September 2026 (US/Pacific).</p>
       <p><a href="../about.html">Methodology and disclosure</a> · <a href="../states.html">State directory</a></p>
       <div class="disclaimer">
         <p>This site is not a government agency and does not license pumpers or inspectors. Listings are transcribed from official state or county sources cited on each page. Registration, phones, and who may work in a county change. Confirm with the company and the licensing authority before you hire.</p>
