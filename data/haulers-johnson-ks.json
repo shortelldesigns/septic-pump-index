@@ -1,0 +1,293 @@
+{
+  "jurisdiction": "Johnson County, Kansas",
+  "source": {
+    "publisher": "Johnson County Department of Health and Environment",
+    "title": "2026 Licensed Sanitary Disposal Contractors Lists",
+    "url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+    "parent_url": "https://www.jocogov.org/department/environment/septic-systems/pumper-installer-lists",
+    "licensing_url": "https://www.jocogov.org/department/environment/septic-systems/contractor-installer-licensing",
+    "document_date": "2026-06-24",
+    "document_date_as_printed": "updated 6/24/2026 2:06 PM",
+    "retrieved": "2026-09-06",
+    "archive": "data/sources/johnson-ks-licensed-sanitary-disposal-contractors-2026.pdf",
+    "limitations": "Transcribed from the Sewage section only of the JCDHE PDF updated 6/24/2026. Grease-only and portable-toilet-only licensees are not listed here. Addresses are not on the PDF. Appearance is not an endorsement. Confirm current licensure on the county website before you hire. A sanitary disposal contractor license is not an inspection credential."
+  },
+  "record_count": 25,
+  "records": [
+    {
+      "license_number": "26-003",
+      "name": "A-1 Sewer & Septic Service Inc.",
+      "phone": "(913) 631-5201",
+      "phone_digits": "9136315201",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-025",
+      "name": "Bill’s Septic Service",
+      "phone": "(913) 755-4082",
+      "phone_digits": "9137554082",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-006",
+      "name": "Chapman Septic Services",
+      "phone": "(913) 287-2280",
+      "phone_digits": "9132872280",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-017",
+      "name": "Crosby Plumbing",
+      "phone": "(913) 441-5800",
+      "phone_digits": "9134415800",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-007",
+      "name": "Dailey Septic Service",
+      "phone": "(913) 856-7550",
+      "phone_digits": "9138567550",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-030",
+      "name": "Dump N Pump Septic LLC",
+      "phone": "(816) 368-2903",
+      "phone_digits": "8163682903",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-035",
+      "name": "Epic Septic of SW KC",
+      "phone": "(913) 392-5200",
+      "phone_digits": "9133925200",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-001",
+      "name": "EnviroServe",
+      "phone": "(800) 488-0910",
+      "phone_digits": "8004880910",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-018",
+      "name": "Honey-Wagon Septic & Grease",
+      "phone": "(913) 681-3563",
+      "phone_digits": "9136813563",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-034",
+      "name": "Honeybee Septic",
+      "phone": "(785) 841-0399",
+      "phone_digits": "7858410399",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-009",
+      "name": "K Jett Services, LLC",
+      "phone": "(816) 769-3900",
+      "phone_digits": "8167693900",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-019",
+      "name": "Kissick Construction Company",
+      "phone": "(816) 363-5530",
+      "phone_digits": "8163635530",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-020",
+      "name": "Koontz Septic Service",
+      "phone": "(913) 269-0284",
+      "phone_digits": "9132690284",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-010",
+      "name": "Lexington Plumbing",
+      "phone": "(816) 231-2254",
+      "phone_digits": "8162312254",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-011",
+      "name": "Missouri Drain & Sewer LLC DBA Zoom Drain",
+      "phone": "(816) 357-5918",
+      "phone_digits": "8163575918",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-031",
+      "name": "Pipeview America",
+      "phone": "(913) 605-0057",
+      "phone_digits": "9136050057",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-033",
+      "name": "Quality Plumbing",
+      "phone": "(816) 472-4994",
+      "phone_digits": "8164724994",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-012",
+      "name": "Reddi Services, Inc.",
+      "phone": "(913) 287-5005",
+      "phone_digits": "9132875005",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-024",
+      "name": "Septic Kings",
+      "phone": "(816) 816-7667",
+      "phone_digits": "8168167667",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-022",
+      "name": "Solid Ground Excavating LLC",
+      "phone": "(913) 608-3361",
+      "phone_digits": "9136083361",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-028",
+      "name": "Stahla Services LLC",
+      "phone": "(844) 900-3190",
+      "phone_digits": "8449003190",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-027",
+      "name": "Sunflower Septic LLC",
+      "phone": "(913) 443-8628",
+      "phone_digits": "9134438628",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-013",
+      "name": "Truninger Brothers Septic Tank Pumping",
+      "phone": "(816) 540-5673",
+      "phone_digits": "8165405673",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-014",
+      "name": "Twin Springs Pump Services LLC",
+      "phone": "(816) 839-7867",
+      "phone_digits": "8168397867",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    },
+    {
+      "license_number": "26-015",
+      "name": "Wheatland Contracting LLC",
+      "phone": "(913) 833-2304",
+      "phone_digits": "9138332304",
+      "category": "Sewage",
+      "role": "Johnson County KS licensed sanitary disposal contractor (sewage)",
+      "source_url": "https://www.jocogov.org/sites/default/files/files/2026-08/2026%20Licensed%20Sanitary%20Disposal%20Contractors%20Lists.pdf",
+      "source_document_date": "2026-06-24",
+      "retrieved": "2026-09-06"
+    }
+  ]
+}
