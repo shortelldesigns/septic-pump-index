@@ -1,0 +1,260 @@
+{
+  "jurisdiction": "Columbiana County, Ohio",
+  "source": {
+    "publisher": "Columbiana County General Health District",
+    "title": "2026 STS Pumpers Alphabetical by City",
+    "url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+    "parent_url": "https://www.columbiana-health.org/sewage/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-04-22",
+    "document_date_note": "PDF CreationDate 22 April 2026 UTC; live file 2026-STS-Pumpers.pdf",
+    "retrieved": "2026-09-10",
+    "archive": "data/sources/columbiana-oh-2026-sts-pumpers.pdf",
+    "limitations": "Transcribed from Columbiana County General Health District 2026-STS-Pumpers.pdf (CreationDate 22 Apr 2026). 22 registered STS pumpers listed alphabetical by city. Spellings kept as printed (Willam Milner; Charlie Hoffman Septic Svcs.; N. Benton; Yo-town Kingsville). ODH statewide bond status is not on this PDF (marked unknown). A pumper registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with CCGHD and ODH before you hire."
+  },
+  "record_count": 22,
+  "records": [
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Reliable Onsite Services",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "United Rentals (North America)",
+      "address": "1050 Killian Rd., Akron, OH 44312",
+      "phone": "330-733-9000",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Sosnick Septic Service",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Michael Sosnick",
+      "address": "19542 W. Middletown Rd., Beloit, OH 44609",
+      "phone": "330-584-6718",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Charlie Hoffman Septic Svcs.",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Mark Biskup",
+      "address": "16124 W. Western Reserve Rd., Berlin Center, OH 44401",
+      "phone": "330-584-5466",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Morris Drain Service, Inc.",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Ronald Morris",
+      "address": "4200 Simon Rd., Boardman, OH 44512",
+      "phone": "330-788-2560",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Klarich Farms, LLC",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Frank Klarich",
+      "address": "PO Box 53, Burton, OH 44021",
+      "phone": "440-285-2550",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Rosebud Sanitation",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Jay Householder Jr.",
+      "address": "49377 Hickman Rd., Calcutta, OH 43920",
+      "phone": "330-385-6622",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Chester H3, LLC, dba Erwin Septic Svc.",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Joseph Heretta III",
+      "address": "333 Steubenville Rd., SE, Carrollton, OH 44615",
+      "phone": "330-627-4700",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Cowboy Miller Septic Pumping",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Sheri Brown",
+      "address": "2012 Notman Rd., Deerfield, OH 44411",
+      "phone": "330-821-8060",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Gold-N-Deuce, LLC",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Brian Myers / David Brown",
+      "address": "6085 Waynesburg Rd. NW, Dellroy, OH 44620",
+      "phone": "330-851-8541",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Dalton's Service Co., LLC",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Loran & Deborah Dalton",
+      "address": "1230 Mercer Rd., Ellwood City, PA 16117",
+      "phone": "724-752-4545",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Tom's Septic and Drain",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Jeff Chahine Jr.",
+      "address": "1057 Trumbull Ave., Girard, OH 44420",
+      "phone": "330-545-8584",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Whipkey Septic Pumping LLC",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Clayton Whipkey",
+      "address": "4300 Middle St., Homeworth, OH 44634",
+      "phone": "330-736-1821",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Novak Septic Pumping",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Timothy & Anita Novak",
+      "address": "38350 Adams Rd., Lisbon, OH 44432",
+      "phone": "330-420-9929",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Family Flush Septic Service",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Timothy J. Novak & Anita Novak",
+      "address": "38350 Adams Rd., Lisbon, OH 44432",
+      "phone": "330-420-5315",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Bosley Drain & Septic",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Josh Tully",
+      "address": "PO Box 303, Louisville, OH 44641",
+      "phone": "330-454-4000",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Milner's Septic",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Willam Milner",
+      "address": "100 Arbor Rd., NW, PO Box 2, Minerva, OH 44657",
+      "phone": "330-868-9700",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "CJ's Port a Potty",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Jason Pierce",
+      "address": "9379 First East St., N. Benton, OH 44449",
+      "phone": "234-562-0062",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Salem Septic",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "John Mercer",
+      "address": "30761 Georgetown Rd., Salem, OH 44460",
+      "phone": "330-525-7800",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Steve's Service",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Stephen Utt",
+      "address": "298 East Florida Ave., Sebring, OH 44672",
+      "phone": "330-938-9325",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "A Rooter Man",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "James English",
+      "address": "195 Potomac Ave., Unit B, Tallmadge, OH 44278",
+      "phone": "877-232-1520",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Duke's Sanitary Service, Inc.",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Mark Furrie Sr.",
+      "address": "1009 Yo-town Kingsville Rd., NE, Vienna, OH 44473",
+      "phone": "330-856-3129",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.columbiana-health.org/wp-content/uploads/2026-STS-Pumpers.pdf",
+      "source_document_date": "2026-04-22",
+      "retrieved": "2026-09-10",
+      "name": "Patterson Specialty Services",
+      "role": "Columbiana County General Health District registered STS pumper",
+      "operator": "Bill Patterson",
+      "address": "300 W. Lisbon St., Waynesburg, OH 44688",
+      "phone": "330-862-3371",
+      "odh_bond": "unknown"
+    }
+  ]
+}
