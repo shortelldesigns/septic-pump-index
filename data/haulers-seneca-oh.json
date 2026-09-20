@@ -1,0 +1,194 @@
+{
+  "jurisdiction": "Seneca County, Ohio",
+  "source": {
+    "publisher": "Seneca County General Health District",
+    "title": "Septage Haulers 2026 (Septage-Haulers-2026.pdf)",
+    "url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+    "parent_url": "https://senecahealthdept.org/environmental-health/home-sewage-treatment-systems/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-04-28",
+    "document_date_note": "PDF footer 04/28/2026 on each page; page 2 prints 16 TOTAL; linked from Home Sewage Treatment Systems as Approved Septic Haulers 2026",
+    "retrieved": "2026-09-19",
+    "archive": "data/sources/seneca-oh-septage-haulers-2026.pdf",
+    "limitations": "Transcribed from Seneca County General Health District Septage Haulers PDF (Septage-Haulers-2026.pdf; footer 04/28/2026; 16 TOTAL). Spellings kept as printed including ADKIN'S SANITATION, GAHRINGS SEWER DRAIN, and phone printed as -419-609-9980 for PAUL FOX & SONS EXCAVATING. FLUSH PORTABLES LLC, T E PRICE INC, and UNITED RENTALS (NORTH AMERICA), INC have no phone on the PDF (marked unknown). PAUL FOX & SONS EXCAVATING has no operator name line on the PDF. UNITED RENTALS operator line prints RELIABLE ONSITE SERVICES as on the PDF. No registration numbers on this PDF. ODH statewide bond status is not on this PDF (marked unknown). A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with Seneca County General Health District and ODH before you hire."
+  },
+  "record_count": 16,
+  "records": [
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "ADKIN'S SANITATION",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "JOHN ADKINS",
+      "address": "2226 W GARRISON FREMONT, OH 43420",
+      "phone": "1-419-332-2873",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "BARNETT EXCAVATING",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "JOSEPH BARNETT",
+      "address": "215 SANDUSKY ST PLYMOUTH, OH 44865",
+      "phone": "1-419-706-2452",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "BUGNER'S SEWER & PORTABLE RESTROOMS",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "NICK BUGNER OR HANK BUGNER",
+      "address": "468 N SR 587/ PO BOX 230 FOSTORIA, OH 44830",
+      "phone": "1-419-435-3977",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "C & L SANITATION, INC.",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "THOMAS L STANGE, PRESIDENT",
+      "address": "27545 GLENWOOD RD, PO BOX 691 PERRYSBURG, OH 43552",
+      "phone": "1-419-874-4653",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "DARR'S CLEANING",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "ROGER DARR",
+      "address": "5089 CO. RD. 175 CLYDE, OH 43410",
+      "phone": "1-419-547-0410",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "DISTEL'S SEPTIC TANK SERVICES",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "AARON DISTEL",
+      "address": "30 ELLA STREET TIFFIN, OH 44883",
+      "phone": "1-419-448-0250",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "FLUSH PORTABLES LLC",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "DUSTIN ANSTEAD",
+      "address": "3715 S CR 198 GREEN SPRINGS, OH 44836",
+      "phone": null,
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "GAHRINGS SEWER DRAIN",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "MATTHEW GAHRING",
+      "address": "16651 E TR 12 ATTICA, OH 44807",
+      "phone": "1-419-933-1648",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "GARNER SANITATION SERVICES",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "PHILLIP MYERS",
+      "address": "2525 W MONROE ST., PO BOX 1234 SANDUSKY, OH 44871",
+      "phone": "1-800-473-3205",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "HOOVER'S SEPTIC TANK CLEANING",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "RANDY HOOVER",
+      "address": "1520 N. TWP. RD. 111 TIFFIN, OH 44883",
+      "phone": "1-419-937-2881",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "JB WALTER PORTABLE TOILETS",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "BRADLEY J WALTER",
+      "address": "18590 TR 155 MT BLANCHARD, OH 45867",
+      "phone": "1-419-694-7895",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "PAUL FOX & SONS EXCAVATING",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": null,
+      "address": "3501 HAYES AVENUE SANDUSKY, OH 44870",
+      "phone": "-419-609-9980",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "STIGER PRECAST INC.",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "MIKE STIGER",
+      "address": "17793 S.H. 231 NEVADA, OH 44849",
+      "phone": "1-740-482-2313",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "T E PRICE INC",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "KEVIN AURAND",
+      "address": "9758 REYNOLDS RD WAYNE, OH 43466",
+      "phone": null,
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "THEIS SEPTIC",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "CHARLES E THEIS",
+      "address": "2729 E US 224 TIFFIN, OH 44883",
+      "phone": "1-419-447-9149",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://senecahealthdept.org/wp-content/uploads/2026/04/Septage-Haulers-2026.pdf",
+      "source_document_date": "2026-04-28",
+      "retrieved": "2026-09-19",
+      "name": "UNITED RENTALS (NORTH AMERICA), INC",
+      "role": "Seneca County General Health District registered septage hauler",
+      "operator": "RELIABLE ONSITE SERVICES",
+      "address": "1652 HOLLAND ROAD MAUMEE, OH 43537",
+      "phone": null,
+      "odh_bond": "unknown"
+    }
+  ]
+}
