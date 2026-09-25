@@ -1,0 +1,239 @@
+{
+  "jurisdiction": "Darke County, Ohio",
+  "source": {
+    "publisher": "Darke County General Health District",
+    "title": "Septage Haulers (SEWAGE-TREATMENT-04-1-2026HAULERS.pdf)",
+    "url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+    "parent_url": "https://darkecountyhealth.org/services/environmental-health/sewage-treatment-systems/sewage-contractor-registrations/",
+    "program_url": "https://darkecountyhealth.org/services/environmental-health/sewage-treatment-systems/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-04-01",
+    "document_date_note": "PDF footer 04/01/2026 on each page; page 2 prints 20 TOTAL; CreationDate 1 April 2026 PDT; linked from Sewage Contractor Registrations",
+    "retrieved": "2026-09-24",
+    "archive": "data/sources/darke-oh-2026-septage-haulers.pdf",
+    "limitations": "Transcribed from Darke County General Health District Septage Haulers PDF (SEWAGE-TREATMENT-04-1-2026HAULERS.pdf; footer 04/01/2026; 20 TOTAL). Spellings kept as printed including BOOSO'S, FLATTER'S, FRECH'S, MIKE'S, and ARTZ phone printed truncated as 1-459-996-6 (as on the PDF text layer). ARTZ street line prints GREENVILLE NASHVILLE with no Rd/St suffix. MT SERVICES INC operator line prints MILLER PORTABLES; PORTA KLEEN INDUSTRIAL SERVICES operator line prints singular SERVICE. No registration numbers on this PDF. ODH statewide bond status is not on this PDF (marked unknown). A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with Darke County General Health District and ODH before you hire."
+  },
+  "record_count": 20,
+  "records": [
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "ACCURATE SEPTIC SERVICES",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "MARK MOORE",
+      "address": "11131 MONTGOMERY CO LINE RD BROOKVILLE, OH 45309",
+      "phone": "1-937-947-8080",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "ALEXANDER SEWER & DRAIN",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "KELLY GOUBEAUX",
+      "address": "PO BOX 64 CASSTOWN, OH 45312",
+      "phone": "1-937-875-0068",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "ARTZ SEPTIC SERVICES",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "KEEGAN ARTZ",
+      "address": "2853 GREENVILLE NASHVILLE GREENVILLE, OH 45331",
+      "phone": "1-459-996-6",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "BARNES SEWER & SEPTIC, LLC",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "ROBERT D. BOND",
+      "address": "3075 N 100 W WINCHESTER, IN 47394",
+      "phone": "1-765-584-7295",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "BOOSO'S SEPTIC CLEANING",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "MARK BOOSO",
+      "address": "8882 ROCKRIDGE LEWISBURG, OH 45338",
+      "phone": "1-937-962-4435",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "COOPER SANITARY SERVICES",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "NELSON COOPER JR",
+      "address": "11567 HABER RD ENGLEWOOD, OH 45322",
+      "phone": "1-937-698-6200",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "D & H CONSTRUCTION",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "DAVID HANEY",
+      "address": "5961 RED RIVER WEST GROVE ROAD BRADFORD, OH 45308",
+      "phone": "1-937-448-8071",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "FLATTER'S SEPTIC TANKS",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "GARY FLATTER",
+      "address": "7972 GREENVILLE CELINA RD GREENVILLE, OH 45331",
+      "phone": "1-937-548-7667",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "FRANTZ SEPTIC CLEANING",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "JACK FRANTZ",
+      "address": "10500 BRADFORD BLOOMER RD. COVINGTON, OH 45318",
+      "phone": "1-937-526-3121",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "FRECH'S SEPTIC LLC",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "TODD FRECH",
+      "address": "2709 WILT RD NEW MADISON, OH 45346",
+      "phone": "1-937-996-1615",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "GRIERS POWER DIGGING LLC",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "NICHOLAS GRIER",
+      "address": "9422 ST RT 118 ROCKFORD, OH 45882",
+      "phone": "1-419-363-3390",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "MIKE'S SANITATION, INC.",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "RYAN EVERS",
+      "address": "8810 BROCKMAN RD NEW BREMEN, OH 45869",
+      "phone": "1-419-629-3695",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "MT SERVICES INC",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "MILLER PORTABLES",
+      "address": "PO BOX 136 BERLIN, OH 44610",
+      "phone": "1-800-827-6808",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "PORTA KLEEN INDUSTRIAL SERVICES",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "PORTA KLEEN INDUSTRIAL SERVICE",
+      "address": "1030 MILL PARK DR LANCASTER, OH 43130",
+      "phone": "1-513-330-6713",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "PRIME PUMPING AND SERVICES",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "NICK TRANTANELLA",
+      "address": "4076 EIDSON RD CAMDEN, OH 45311",
+      "phone": "1-937-553-7400",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "RAEGON GROUP LLC DBA RAEGON SEPTIC",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "JEREMY BRIDENBAUGH",
+      "address": "5183 SOUTH RANGELINE RD WEST MILTON, OH 45383",
+      "phone": "1-937-733-8456",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "ROTO-ROOTER SERVICES COMPANY",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "ROTO-ROOTER SERVICES COMPANY",
+      "address": "9490 BYERS RD MIAMISBURG, OH 45342",
+      "phone": "1-937-353-7093",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "ROYALTY RESTROOM RENTALS",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "LEVI FOX",
+      "address": "1147 HILLCREST DR TROY, OH 45373",
+      "phone": "1-937-216-2562",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "RUMPKE TRANSPORTATION COMPANY, LLC",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "KRISTEN DETTY",
+      "address": "3975 WAGNER FORD RD DAYTON, OH 45414",
+      "phone": "1-513-851-0122",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://darkecountyhealth.org/wp-content/uploads/2026/04/SEWAGE-TREATMENT-04-1-2026HAULERS.pdf",
+      "source_document_date": "2026-04-01",
+      "retrieved": "2026-09-24",
+      "name": "SANDERS SEPTIC AND SEWER",
+      "role": "Darke County General Health District registered septage hauler",
+      "operator": "BRIAN SANDERS",
+      "address": "409 SCHOOL ST BRADFORD, OH 45308",
+      "phone": "1-937-564-3907",
+      "odh_bond": "unknown"
+    }
+  ]
+}
