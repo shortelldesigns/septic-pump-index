@@ -1,0 +1,206 @@
+{
+  "jurisdiction": "Erie County, Ohio",
+  "source": {
+    "publisher": "Erie County Health Department",
+    "title": "Septage Haulers (HAULERS-LIST.pdf)",
+    "url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+    "parent_url": "https://eriehealthohio.com/sewage-treatment/",
+    "forms_url": "https://eriehealthohio.com/forms-codes/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-08-31",
+    "document_date_note": "PDF footer 08/31/2026 on each page; page 2 prints 17 TOTAL; CreationDate 31 August 2026 UTC; linked from Sewage Treatment / Forms & Codes as Registered Septage Haulers",
+    "retrieved": "2026-09-25",
+    "archive": "data/sources/erie-oh-2026-haulers-list.pdf",
+    "limitations": "Transcribed from Erie County Health Department Septage Haulers PDF (HAULERS-LIST.pdf; footer 08/31/2026; 17 TOTAL). Spellings kept as printed including BLAKE'S, BURNETT'S, DARR'S, REISING SANITARION SERVICES, and ECONOMY DRAIN CLEANING & SEPTIC SERVICES, INC (no trailing period after INC on the PDF text layer). KURAS AERATION SYSTEMS, LLC city line prints blank before \", OH\". No registration numbers on this PDF. ODH statewide bond status is not on this PDF (marked unknown). A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with Erie County Health Department and ODH before you hire."
+  },
+  "record_count": 17,
+  "records": [
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "ABEL SANITARY SERVICE",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "DAVID S. PINKERTON",
+      "address": "10515 BERLIN ROAD BERLIN HEIGHTS, OH 44814",
+      "phone": "1-440-967-7704",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "ADKINS SANITATION LTD.",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "JOHN ADKINS",
+      "address": "2226 W GARRISON ST FREMONT, OH 43410",
+      "phone": "1-419-332-2873",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "BLAKE'S SANITATION LTD",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "RANDY BLAKE",
+      "address": "220 SR 60 N NEW LONDON, OH 44851",
+      "phone": "1-419-929-0208",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "BURNETT'S SEPTIC SERVICE",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "ANTHONY REVEGLIA",
+      "address": "120 COMMERCE DRIVE LAGRANGE, OH 44050",
+      "phone": "1-440-355-5526",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "DARR'S CLEANING, INC.",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "ROGER L. DARR",
+      "address": "5089 CR 175 CLYDE, OH 43410",
+      "phone": "1-419-547-0410",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "DEWEY PELTON SEPTIC, LLC",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "PATRICK JOHNSON JR",
+      "address": "6803 SR 60 WAKEMAN, OH 44889",
+      "phone": "1-440-965-8919",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "DOUBLE FLUSH SEPTIC SERVICES",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "SCOTT SCHOLZ",
+      "address": "2481 REMSEN ROAD MEDINA, OH 44256",
+      "phone": "1-330-391-5551",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "ECONOMY DRAIN CLEANING & SEPTIC SERVICES, INC",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "TATEUM JONES",
+      "address": "3420 LIBERTY AVE VERMILION, OH 44089",
+      "phone": "1-440-963-9275",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "FLUSH PORTABLES LLC",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "DUSTIN ANSTEAD",
+      "address": "3715 S. COUNTY ROAD 198 GREEN SPRINGS, OH 44836",
+      "phone": "1-567-228-7786",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "FRANKLIN SANITATION LLC",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "GREG FRANKLIN",
+      "address": "1611 RYE BEACH ROAD HURON, OH 44839",
+      "phone": "1-419-433-5169",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "FRED LEWIS SEPTIC TANK SERVICE",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "LINDA REED",
+      "address": "16250 GIFFORD RD OBERLIN, OH 44074",
+      "phone": "1-440-774-1972",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "GARNER SANITATION SERVICES, INC.",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "PHILLIP MYERS",
+      "address": "2525 MONROE STREET SANDUSKY, OH 44870",
+      "phone": "1-800-473-3205",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "KURAS AERATION SYSTEMS, LLC",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "JEFF KURAS",
+      "address": "5875 W. HARBOR ROAD , OH",
+      "phone": "1-419-635-2353",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "MORRIS ENVIRONMENTAL AND SANITATION",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "DYLAN MORRIS",
+      "address": "36225 DETROIT RD #107 AVON, OH 44011",
+      "phone": "1-440-420-5067",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "PAUL FOX & SONS EXCAVATING",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "PAUL FOX",
+      "address": "3501 HAYES AVE SANDUSKY, OH 44870",
+      "phone": "1-419-609-9980",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "REISING SANITARION SERVICES",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "JIM REISING",
+      "address": "11306 MAIN RD BERLIN HEIGHTS, OH 44814",
+      "phone": "1-419-681-3596",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://eriehealthohio.com/wp-content/uploads/2026/09/HAULERS-LIST.pdf",
+      "source_document_date": "2026-08-31",
+      "retrieved": "2026-09-25",
+      "name": "UNITED RENTALS (NORTH AMERICA)",
+      "role": "Erie County Health Department registered septage hauler",
+      "operator": "LYNN VIZDOS",
+      "address": "1050 KILLIAN RD AKRON, OH 44312",
+      "phone": "1-330-774-2507",
+      "odh_bond": "unknown"
+    }
+  ]
+}
