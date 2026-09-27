@@ -4,9 +4,9 @@
 - **Page:** Ashland County, Ohio — registered septage haulers
 - **Live URL:** https://shortelldesigns.github.io/septic-pump-index/oh/ashland.html
 - **Firm count:** 25 named haulers (PDF prints 25 TOTAL; no local REG. #)
-- **Commit:** *(filled after push)*
+- **Commit:** `8c420ed75934d687f691313c7ff667a71b4b66b0` — *Add Ashland County OH registered septage haulers.*
 - **Screenshot:** `/workspace/septic-pump-index/ashland-oh-page-screenshot.png`
-- **Live HTTP 200:** *(filled after Pages deploy)*
+- **Live HTTP 200:** verified (Pages briefly 404 then 200; distinctive names `A & B SEPTIC CLEANING` / `DOUBLEFLUSH SEPTIC SERVICES` / `JAKE'S JOHNS` / `SIDLE SANITATION SOLUTIONS,LLC DBA BUTLER SAN` / `UBER DROSS HOLDINGS LLC DBA RED BOX` present; Shortell Designs byline; no Stephen Shortell)
 
 ## Official source
 - **PDF:** https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf  
