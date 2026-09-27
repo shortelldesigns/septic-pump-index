@@ -1,0 +1,293 @@
+{
+  "jurisdiction": "Ashland County, Ohio",
+  "source": {
+    "publisher": "Ashland County Health Department",
+    "title": "Septage Haulers (Haulers.pdf)",
+    "url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+    "parent_url": "https://www.health-ashlandcounty-oh.gov/services/sewage-treatment-systems/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-08-05",
+    "document_date_note": "PDF footer 08/05/2026 on each page; page 3 prints 25 TOTAL; linked from Sewage Treatment Systems as 2026 Septage Haulers",
+    "retrieved": "2026-09-26",
+    "archive": "data/sources/ashland-oh-2026-septage-haulers.pdf",
+    "limitations": "Transcribed from Ashland County Health Department Septage Haulers PDF (Haulers.pdf; footer 08/05/2026; 25 TOTAL). Spellings kept as printed including BLAKE'S, BRENNER'S, BRENNY'S, BURNETT'S, DOUBLEFLUSH SEPTIC SERVICES (one word), JAKE'S JOHNS, JOHN'S SEPTIC, KEITH'S, TIDY TIM'S INC, WEBB'S, SIDLE SANITATION SOLUTIONS,LLC DBA BUTLER SAN (comma before LLC; DBA truncated as printed), and UBER DROSS HOLDINGS LLC DBA RED BOX. B&B address prints P.O.BOX 391 (no space after P.O.). LIBERTY street prints ST. RT. 39; TIDY TIM'S city prints MT. GILEAD. No registration numbers on this PDF. ODH statewide bond status is not on this PDF (marked unknown). A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with Ashland County Health Department and ODH before you hire."
+  },
+  "record_count": 25,
+  "records": [
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "A & B SEPTIC CLEANING",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "TODD YOUNG",
+      "address": "1976 SR 89 JEROMESVILLE, OH 44840",
+      "phone": "1-419-368-5805",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "A-1 SEPTIC TANK CLEANING SERVICE",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "MIKE MUTCHLER",
+      "address": "1892 BELL ROAD WOOSTER, OH 44691",
+      "phone": "1-419-368-3566",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "ACTION DRAIN & SEPTIC",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "PAMELA K. BLANTON",
+      "address": "PO BOX 904 MANSFIELD, OH 44901",
+      "phone": "1-419-774-0323",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "ASHLAND PRICE SEPTIC CLEANING",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "JEREMY YOUNCE",
+      "address": "734 TR 462 SULLIVAN, OH 44880",
+      "phone": "1-419-606-2644",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "B&B DRAIN & SEPTIC SERVICE",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "STEVE R. BROWN SR.",
+      "address": "P.O.BOX 391 MANSFIELD, OH 44901",
+      "phone": "1-419-524-1992",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "BLAKE'S SANITATION LTD",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "RANDY BLAKE",
+      "address": "220 SR 60 N NEW LONDON, OH 44851",
+      "phone": "1-419-929-0208",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "BRENNER'S SANITARY SERVICE",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "BRYAN MAST",
+      "address": "5262 MESSNER RD APPLE CREEK, OH 44606",
+      "phone": "1-330-464-7080",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "BRENNY'S SANITARY SERVICE LLC",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "ALVIN BRENNEMAN",
+      "address": "13627 BACK MASSILLON RD ORRVILLE, OH 44667",
+      "phone": "1-330-683-1611",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "BURNETT'S SEPTIC SERVICES",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "ANTHONY REVEGLIA",
+      "address": "120 COMMERCE DR. LAGRANGE, OH 44050",
+      "phone": "1-440-355-5526",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "DOUBLEFLUSH SEPTIC SERVICES",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "SCOTT SCHOLZ",
+      "address": "2481 REMSEN RD MEDINA, OH 44256",
+      "phone": "1-330-391-5551",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "DYNAMERICAN",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "KEVIN CHURCH",
+      "address": "1011 LAKE RD MEDINA, OH 44256",
+      "phone": "1-330-666-8863",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "JAKE'S JOHNS",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "JAKE HOVERSTOCK",
+      "address": "2227 SR 179 JEROMESVILLE, OH 44840",
+      "phone": "1-419-606-1357",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "JOHN'S SEPTIC",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "JOHN VERMILYA",
+      "address": "2186 SR 179 JEROMESVILLE, OH 44840",
+      "phone": "1-419-606-8418",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "KEITH'S DRAIN & SEPTIC SERVICE INC.",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "KEITH SMITH",
+      "address": "1755 SR 39 LUCAS, OH 44843",
+      "phone": "1-419-631-8870",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "LIBERTY FLUID MANAGEMENT LTD",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "ROB CUTLIP",
+      "address": "696 ST. RT. 39 PERRYSVILLE, OH 44864",
+      "phone": "1-330-465-7467",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "MILLER SEPTIC LLC",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "SETH MILLER",
+      "address": "2680 CR 168 DUNDEE, OH 44624",
+      "phone": "1-330-893-2355",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "MT SERVICES INC",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "CLINTON MILLER",
+      "address": "2680 CR 168 DUNDEE, OH 44624",
+      "phone": "1-330-893-2355",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "SHETLER SERVICES INC",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "GREG SHETLER",
+      "address": "3656 E. MESSNER RD WOOSTER, OH 44691",
+      "phone": "1-330-988-4373",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "SIDLE SANITATION SOLUTIONS,LLC DBA BUTLER SAN",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "WAYNE SIDLE",
+      "address": "3173 BROKAW RD BUTLER, OH 44822",
+      "phone": "1-419-585-0701",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "STULL SEPTIC PUMPING, LLC",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "NATHAN STULL",
+      "address": "17783 APPLE VALLEY ROAD HOWARD, OH 43028",
+      "phone": "1-740-504-8741",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "TIDY TIM'S INC",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "TIM HACK",
+      "address": "6434 CR 100 MT. GILEAD, OH 43338",
+      "phone": "1-419-947-3121",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "UBER DROSS HOLDINGS LLC DBA RED BOX",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "SCOTT SELLERS",
+      "address": "PO BOX 555 BELLVILLE, OH 44813",
+      "phone": "1-419-855-5052",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "UHL SEPTIC CLEANING",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "RICHARD B UHL",
+      "address": "4437 TWP RD 305 MILLERSBURG, OH 44654",
+      "phone": "1-330-674-1424",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "UNITED RENTALS (NORTH AMERICA)",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "JEFF WALKER",
+      "address": "1050 KILLIAN RD AKRON, OH 44312",
+      "phone": "1-330-744-2507",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.health-ashlandcounty-oh.gov/wp-content/uploads/2026/08/Haulers.pdf",
+      "source_document_date": "2026-08-05",
+      "retrieved": "2026-09-26",
+      "name": "WEBB'S SEPTIC TANK CLEANING & MAINTENANCE",
+      "role": "Ashland County Health Department registered septage hauler",
+      "operator": "STEVE PASHEILICH",
+      "address": "1460 CHEW RD MANSFIELD, OH 44903",
+      "phone": "1-419-522-3539",
+      "odh_bond": "unknown"
+    }
+  ]
+}
