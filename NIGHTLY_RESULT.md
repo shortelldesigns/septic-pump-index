@@ -4,9 +4,9 @@
 - **Page:** Conestoga Township, Lancaster County, Pennsylvania — approved septic haulers
 - **Live URL:** https://shortelldesigns.github.io/septic-pump-index/pa/lancaster.html
 - **Firm count:** 16 named haulers (township PDF; no DEP transporter numbers)
-- **Commit:** *(filled after push)*
+- **Commit:** `e9d418e58289049ddf02f3b592e1a9779e4a3097` — *Add Lancaster County PA Conestoga Township approved septic haulers.*
 - **Screenshot:** `/workspace/septic-pump-index/lancaster-pa-page-screenshot.png`
-- **Live HTTP 200:** *(filled after verify)*
+- **Live HTTP 200:** verified (Pages briefly 404 then 200; distinctive names `DAVIS, WILLIAM & SONS SEPTIC` / `MARKS SEPTIC SERVICE INC` / `SONLIGHT SERVICES LLC` / `WIND RIVER ENVIRONMENTAL LLC` / `KAUFFMAN'S SEPTIC SERVICES LLC` present; Shortell Designs byline; no Stephen Shortell)
 
 ## Official source
 - **PDF:** https://conestogatwp.com/wp-content/uploads/2026/08/2026-Approved-Septic-Haulers-06.2026.pdf  
