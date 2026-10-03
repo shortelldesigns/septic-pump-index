@@ -1,0 +1,129 @@
+{
+  "jurisdiction": "Morgan County, Ohio",
+  "source": {
+    "publisher": "Morgan County Health Department",
+    "title": "2026 Registered Septage Haulers",
+    "url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+    "parent_url": "https://morganpublichealth.org/septic/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-01-27",
+    "document_date_note": "PDF title prints 2026 Registered Septage Haulers; path under /wp-content/uploads/2026/01/; CreationDate 27 January 2026; linked from Septic page as 2026 Registered Septage Haulers. Name and phone only — no address, operator, or local REG # on this PDF.",
+    "retrieved": "2026-10-02",
+    "archive": "data/sources/morgan-oh-2026-registered-septage-haulers.pdf",
+    "archive_txt": "data/sources/morgan-oh-2026-registered-septage-haulers.txt",
+    "limitations": "Transcribed from Morgan County Health Department PDF 2026-registered-septage-haulers.pdf (linked from https://morganpublichealth.org/septic/ as 2026 Registered Septage Haulers). 11 named haulers. Spellings kept as printed including Sickles Sanitation, Pro Kleen Industrial Services, Jones Jons LLC, and Haas Septic & Portable Toilets. No addresses, operators, or local registration numbers on this PDF (local REG marked unknown). ODH statewide bond status is not on this PDF (marked unknown). Separate 2026 Registered STS Installers and 2026 Registered Service Providers PDFs on the same parent page were not used for this hauler table. A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with Morgan County Health Department and ODH before you hire."
+  },
+  "record_count": 11,
+  "records": [
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Fouss Septic Systems",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-896-2425",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Sickles Sanitation",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-592-3480",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Pro Kleen Industrial Services",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-689-1886",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Myers Septic Service",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-423-9323",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "United Septic Services",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-607-3217",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Emerson Portables",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-819-4254",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Eagle Eye Septic",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-454-7867",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Jones Jons LLC",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-260-8084",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Haas Septic & Portable Toilets",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-891-1010",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Zemba Brothers",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-452-1880",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://morganpublichealth.org/wp-content/uploads/2026/01/2026-registered-septage-haulers.pdf",
+      "source_document_date": "2026-01-27",
+      "retrieved": "2026-10-02",
+      "name": "Irwin Property Services",
+      "role": "Morgan County Health Department registered septage hauler",
+      "phone": "740-591-6243",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    }
+  ]
+}
