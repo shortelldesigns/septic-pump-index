@@ -6,7 +6,7 @@
 - **Firm count:** 10 named haulers (business, operator, address, phone; local REG # and ODH bond unknown)
 - **Commit:** `4f11936e371623d1cbfc8535da3bb931709a8007` — *Add Adams County OH registered septage haulers.*
 - **Screenshot:** parent will capture after live confirmation
-- **Live HTTP 200:** pending Pages deploy verification after push
+- **Live HTTP 200:** verified (Pages briefly 404 then 200; distinctive names `PROFLO SEPTIC SERVICE` / `RELIABLE ONSITE SERVCIES` / `XTREME CLEAN & WATER RESTORATION LLC` / `LITTLE'S SEPTIC SERVICE , INC` / `R&A (PERTUSET) SEPTIC SOLUTIONS` present; Shortell Designs byline; no Stephen Shortell)
 
 ## Official source
 - **PDF:** https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf  
