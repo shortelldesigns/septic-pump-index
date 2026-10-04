@@ -4,7 +4,7 @@
 - **Page:** Adams County, Ohio — registered septage haulers
 - **Live URL:** https://shortelldesigns.github.io/septic-pump-index/oh/adams.html
 - **Firm count:** 10 named haulers (business, operator, address, phone; local REG # and ODH bond unknown)
-- **Commit:** `9080825b355ea333783f9c478e09a6e1829875e6` — *Add Adams County OH registered septage haulers.*
+- **Commit:** `4f11936e371623d1cbfc8535da3bb931709a8007` — *Add Adams County OH registered septage haulers.*
 - **Screenshot:** parent will capture after live confirmation
 - **Live HTTP 200:** pending Pages deploy verification after push
 
