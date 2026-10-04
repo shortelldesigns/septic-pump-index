@@ -1,0 +1,139 @@
+{
+  "jurisdiction": "Adams County, Ohio",
+  "source": {
+    "publisher": "Adams County Health Department",
+    "title": "Septage Haulers",
+    "url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+    "parent_url": "https://www.adamscountyhealth.org/septic-program",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-03-16",
+    "document_date_note": "PDF title prints Septage Haulers; HDIS footer 03/16/2026; 10 TOTAL; CreationDate 16 March 2026 UTC; linked from Septic Program as Septage Hauler List. Business, operator, address, and phone printed; no local REG # on this PDF.",
+    "retrieved": "2026-10-03",
+    "archive": "data/sources/adams-oh-2026-septage-haulers.pdf",
+    "archive_txt": "data/sources/adams-oh-2026-septage-haulers.txt",
+    "limitations": "Transcribed from Adams County Health Department PDF 4712a5_9ee0771923a34aae9b591c70da6841f6.pdf (linked from https://www.adamscountyhealth.org/septic-program as Septage Hauler List). 10 TOTAL named haulers (footer 03/16/2026). Spellings kept as printed including LITTLE'S SEPTIC SERVICE , INC (space before comma), R&A (PERTUSET) SEPTIC SOLUTIONS, operator line R&A SEPTIC SOLUTIONS, LLC, RELIABLE ONSITE SERVCIES (misspelling as printed), and LAUR FURLONG. No local registration numbers on this PDF (local REG marked unknown). ODH statewide bond status is not on this PDF (marked unknown). Separate Installer List and Service Provider List on the same parent page were not used for this hauler table. A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with Adams County Health Department and ODH before you hire."
+  },
+  "record_count": 10,
+  "records": [
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "A-1 SEPTIC",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "RYAN HANSON",
+      "address": "741 BLACKSMITH HILL CHILLICOTHE, OH 45601",
+      "phone": "1-740-703-7117",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "AAA SANITATION",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "JERRY JONES",
+      "address": "1240 ISLAND CREEK ROAD MANCHESTER, OH 45144",
+      "phone": "1-937-549-3417",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "DAY'S SANITATION",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "MICHAEL DAY",
+      "address": "518 E. 6TH STREET, P.O. BOX 193 MANCHESTER, OH 45144",
+      "phone": "1-937-549-2683",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "LITTLE'S SEPTIC SERVICE , INC",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "TRAVIS LITTLE",
+      "address": "239 CLAY STREET WHEELERSBURG, OH 45694",
+      "phone": "1-740-574-2033",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "PROFLO SEPTIC SERVICE",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "RYAN HESLER",
+      "address": "1457 STATE ROUTE 348 WEST UNION, OH 45693",
+      "phone": "1-937-681-0292",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "R&A (PERTUSET) SEPTIC SOLUTIONS",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "R&A SEPTIC SOLUTIONS, LLC",
+      "address": "PO BOX 425, 6260 OLD STATE ROUTE 32 PEEBLES, OH 45660",
+      "phone": "1-937-587-2427",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "RUMPKE TRANSPORTATION CO., LLC",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "LAUR FURLONG",
+      "address": "3990 GENERATION DRIVE CINCINNATI, OH 45251",
+      "phone": "1-937-378-4126",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "SOUTHERN OHIO SEPTAGE SOLUTIONS",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "CODY SPRIGGS",
+      "address": "445 LLOYD RD WEST UNION, OH 45693",
+      "phone": "1-937-217-8676",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "UNITED RENTALS (NORTH AMERICA), INC",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "RELIABLE ONSITE SERVCIES",
+      "address": "4838 SPRING GROVE AVENUE CINCINNATI, OH 45232",
+      "phone": "1-513-288-2280",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.adamscountyhealth.org/_files/ugd/4712a5_9ee0771923a34aae9b591c70da6841f6.pdf",
+      "source_document_date": "2026-03-16",
+      "retrieved": "2026-10-03",
+      "name": "XTREME CLEAN & WATER RESTORATION LLC",
+      "role": "Adams County Health Department registered septage hauler",
+      "operator": "JENNY CARRINGTON",
+      "address": "7336 FREE SOIL RD GEORGETOWN, OH 45121",
+      "phone": "1-513-739-9531",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    }
+  ]
+}
