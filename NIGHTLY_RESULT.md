@@ -1,20 +1,21 @@
-# Nightly Septic Pump Index — 7 October 2026 (PT)
+# Nightly Septic Pump Index — 14 October 2026 (PT)
 
 ## Shipped
-- **Page:** Brown County, Ohio — registered septage haulers
-- **Live URL:** https://shortelldesigns.github.io/septic-pump-index/oh/brown.html
-- **Firm count:** 17 named haulers (business, operator, address, phone; local REG # and ODH bond unknown)
-- **Commit:** see git log (*Add Brown County OH registered septage haulers.*)
+- **Page:** Stark County, Ohio — registered septage haulers
+- **Live URL:** https://shortelldesigns.github.io/septic-pump-index/oh/stark.html
+- **Firm count:** 36 named haulers (business, operator, address, phone; local REG # and ODH bond unknown)
+- **Commit:** see git log (*Add Stark County OH registered septage haulers.*)
 
 ## Official source
-- **PDF:** https://www.browncountyhealth.org/index.php/downloads/category/3-registered-contractors?download=378%3A2026-registered-septic-haulers-7-31-26
-  (title **Septage Haulers**; HDIS; footer **07/31/2026**; **17 TOTAL**; CreationDate 31 July 2026 UTC; Brown County Health Department, 9116 HAMER ROAD, SUITE 101, GEORGETOWN OH)
-- **Parent:** https://www.browncountyhealth.org/index.php/downloads/category/3-registered-contractors (link text **2026 Registered Septic Haulers 7-31-26**)
-- **Archive:** `data/sources/brown-oh-2026-septage-haulers.pdf` (+ `.txt` via `pdftotext -layout`)
-- **Document date:** 31 July 2026; retrieved 7 October 2026 (US/Pacific)
+- **PDF:** https://www.starkcountyohio.gov/Stark%20County%20Health%20Department/Our%20Programs/Online%20Forms/Sewage/Installers,%20Service%20Providers%20and%20Haulers/2026%20HAULER%20LIST.pdf
+  (title **Septage Haulers**; HDIS; footer **03/05/2026**; **36 TOTAL**; CreationDate 5 March 2026 PST; Stark County Health Department, 7235 WHIPPLE AVE NW, NORTH CANTON OH)
+- **Parent:** https://www.starkhealth.org/government/offices/public_health/environmental_health/sewage.php
+- **Archive:** `data/sources/stark-oh-2026-hauler-list.pdf` (+ `.txt` via `pdftotext -layout`)
+- **Document date:** 5 March 2026; retrieved 14 October 2026 (US/Pacific)
 
 ## Caveats
-No local REG # printed; ODH bond unknown. Spellings kept as printed (UNITED RENTALS INC. DBA RELIABLE ONSITE SVCS; SHANE ELLIOTT/LAURA FURLONG). DOODY HAULS prints a Maysville, KY address. Pumping is not an inspection. Separate 2026 Service Providers and installer lists on the same page were not merged.
+No local REG # printed; ODH bond unknown. Spellings kept as printed (JJC2, LTD DBA TOM'S SEPTIC AND SEPTIC; WERAB ENTERPRISES LLC D|B|A FREDS SEPTIC SERV; ESZBIBB DBA COWBOY MILLER SEPTIC PUMPING INC). SPEEDIE SEPTIC & SEWER has a blank operator line. GOLD-N-DEUCE LLC phone prints as - - -. Several phones print with a leading dash and no leading 1. Pumping is not an inspection. Separate 2026 installer and service-provider PDFs in the same folder were not merged.
 
 ## Candidates for next run
-- Stark County OH 2026 HAULER LIST.
+- Another Ohio county with a dated 2026 hauler PDF not yet shipped (e.g. Medina, Wayne, Tuscarawas, or Mahoning if a public list exists).
+- A non-OH state licensed pumper roster if a current official PDF is available.
