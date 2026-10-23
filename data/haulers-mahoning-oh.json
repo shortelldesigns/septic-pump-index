@@ -1,0 +1,211 @@
+{
+  "county": "Mahoning",
+  "state": "OH",
+  "source": "https://www.mahoninghealth.org/wp-content/uploads/2026-List-of-Registered-Septage-Haulers-Pumpers.pdf",
+  "source_title": "Septage Haulers, Mahoning County Health Dept",
+  "source_footer_date": "2026-03-02",
+  "retrieved": "2026-10-23",
+  "total_printed": 25,
+  "haulers": [
+    {
+      "business": "2M SERVICES, LLC",
+      "operator": "NICK ROTA & JUSTIN ROTA",
+      "address": "510 YOUNGSTOWN WARREN RD NILES, OH 44446",
+      "phone": "1-234-339-5296",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "A ROOTER MAN",
+      "operator": "JAMES ENGLISH",
+      "address": "195 POTOMAC AVE UNIT B TALLMADGE, OH 44278",
+      "phone": "1-877-232-1520",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "ADAM & EVE SEWER",
+      "operator": "EDWARD A GRYMBERG",
+      "address": "1196 TIBBETTS WICK ROAD GIRARD, OH 44420",
+      "phone": "1-330-539-9301",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "ASAP SANITARY SERVICES, LLC.",
+      "operator": "JOHN ACKWORTH & ANN SNYDER",
+      "address": "521 YOUNGSTOWN WARREN RD NILES, OH 44446",
+      "phone": "1-330-989-5100",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "CJ'S PORT A POTTY",
+      "operator": "JASON & CHARLIE PIERCE",
+      "address": "9379 FIRST STREET NORTH BENTON, OH 44449",
+      "phone": "1-234-562-0062",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "OBA: RELIABLE ONSITE SERVICES",
+      "operator": "LYNNVIZDOR",
+      "address": "1050 KILLIAN ROAD AKRON, OH 44312",
+      "phone": "1-330-733-9000",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "DIG THIS TRENCHING LLC",
+      "operator": "EDWARD SPENCER",
+      "address": "2590 STROUP ROAD ATWATER, OH 44201",
+      "phone": "1-330-221-4062",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "DUKE'S SANITARY SERVICE, INC.",
+      "operator": "MARK A FURRIE SR",
+      "address": "1009 YOUNGSTOWN KINGSSVILLE RD NE VIENNA, OH 44473",
+      "phone": "1-330-856-3129",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "ESZBIBB, INC., OBA COWBOY MILLER SEPTIC",
+      "operator": "EDWARD & SHERI BROWN",
+      "address": "2012 NOTMAN ROAD DEERFIELD, OH 44411",
+      "phone": "1-330-821-8060",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "GOLD-N-DEUCE LLC",
+      "operator": "BRIAN MYERS",
+      "address": "187 W . MOHAWK DR. MALVERN, OH 44644",
+      "phone": "1-330-581-8541",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "KING'S SANITARY SERVICE",
+      "operator": "REX KING SR. & JR.",
+      "address": "1306 ST RT RT 88 BRISTOLVILLE, OH 44402",
+      "phone": "1-330-372-3201",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "KLARICH FARMS LLC",
+      "operator": "FRANK KLARICH",
+      "address": "11561 BELL RD NEWBURY, OH 44065",
+      "phone": "1-440-285-2550",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "LEHMAN DRAIN LLC",
+      "operator": "SONIA LEHMAN",
+      "address": "13014 DUQUETTE AVE. N.E. HARTVILLE, OH 44632",
+      "phone": "1-234-322-5166",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "MARK BISKUP/CHARLIE HOFFMAN SEPTIC SERVICE",
+      "operator": "MARK & HEATHER BISKUP",
+      "address": "16124 W. WESTERN RESERVE BERLIN CENTER, OH 44401",
+      "phone": "1-330-584-5466",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "MATT MORJOCK (NO TRUCK)",
+      "operator": "MATT MORJOCK",
+      "address": "12266 UNITY RD. NEW SPRINGFIELD, OH 44443",
+      "phone": "1-330-542-0422",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "MORRIS DRAIN SERVICE, LLC",
+      "operator": "RONALD J MORRIS",
+      "address": "4200 SIMON ROAD BOARDMAN, OH 44512",
+      "phone": "1-330-788-2560",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "ROMO SEPTIC CLEANING & REPAIRS, LLC",
+      "operator": "DOUG ROMO",
+      "address": "1503 ALBERT STREET YOUNGSTOWN , OH 44503",
+      "phone": "1-330-448-1996",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "SALEM SEPTIC",
+      "operator": "JOHN MERCER",
+      "address": "30761 GEORGETOWN ROAD SALEM, OH 44460",
+      "phone": "1-330-525-7800",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "SEPTICLEAN LLC",
+      "operator": "MATTHEW WOODFORD",
+      "address": "9655 BERLIN HIGHTS DRIVE DEERFIELD, OH 44411",
+      "phone": "1-330-428-1918",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "SOSNICK SEPTIC SERVICE",
+      "operator": "MIKE SOSNICK",
+      "address": "19542 MIDDLETOWN ROAD BELOIT, OH 44609",
+      "phone": "1-330-584-6718",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "STEVE'S SERVICE",
+      "operator": "STEPHEN UTT",
+      "address": "298 E. FLORIDA SEBRING, OH 44672",
+      "phone": "1-330-938-9325",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "TIMOTHY J NOVAK OBA FAMILY FLUSH SEPTIC",
+      "operator": "ANITA NOVAK",
+      "address": "38350ADAMS LISBON , OH 44432",
+      "phone": "1-330-420-5315",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "TIMOTHY J NOVAK OBA NOVAK SEPTIC",
+      "operator": "TIMOTHY NOVAK",
+      "address": "38350 ADAMS ROAD LISBON, OH 44432",
+      "phone": "1-330-420-9929",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "TOM'S SEWER & DRAIN SERVICE",
+      "operator": "JEFF CHAHINE",
+      "address": "1057 TRUMBULL AVE, UNIT L GIRARD, OH 44420",
+      "phone": "1-330-545-8584",
+      "local_reg": null,
+      "odh_bond": null
+    },
+    {
+      "business": "WHIPKEY SEPTIC PUMPING LLC",
+      "operator": "CLAYTON WHIPKEY",
+      "address": "4300 MIDDLE STREET HOMEWORTH, OH 44634",
+      "phone": "1-330-736-1821",
+      "local_reg": null,
+      "odh_bond": null
+    }
+  ]
+}

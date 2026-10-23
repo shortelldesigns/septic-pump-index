@@ -80,3 +80,4 @@ Retrieve date: **29 August 2026** (US/Pacific; fetch ran 30 August 2026 UTC).
 
 - Third-party contractor marketplaces.
 - Company marketing sites used to fill missing phones.
+| Mahoning County Health Dept registered septage haulers | https://www.mahoninghealth.org/wp-content/uploads/2026-List-of-Registered-Septage-Haulers-Pumpers.pdf | Title Septage Haulers; footer 03/02/2026; 25 TOTAL; CreationDate 2 March 2026 PST | Retrieved 23 October 2026 (US/Pacific). curl (HTTP 200) + pdftotext -layout. 25 named haulers. Spellings kept as printed (OBA, LYNNVIZDOR, KINGSSVILLE, 38350ADAMS). ODH bond and local REG unknown. Archived `data/sources/mahoning-oh-2026-hauler-list.pdf`. Parent: https://www.mahoninghealth.org/septic/. |
