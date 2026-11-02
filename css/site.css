@@ -590,3 +590,8 @@ main, footer { overflow-wrap: break-word; }
   align-items: center;
   min-height: 2.75rem;
 }
+
+/* === Overflow pass (Designer, 2026-11-02) ===
+   states.html: the Minnesota line has an unbreakable "Designer/Installer/Inspector/Service"
+   run, so the flex text span would not shrink and pushed the badge to 392px at 390. */
+.state-list li > span:first-child { min-width: 0; overflow-wrap: anywhere; }
