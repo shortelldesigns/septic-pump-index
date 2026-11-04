@@ -1,0 +1,260 @@
+{
+  "jurisdiction": "Richland County, Ohio",
+  "source": {
+    "publisher": "Richland Public Health",
+    "title": "Septage Haulers (SEWAGE-HAULERS-06-12-2026.pdf)",
+    "url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+    "parent_url": "https://richlandhealth.org/home-health-services/sewage-treatment-companies/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-06-12",
+    "document_date_note": "Footer 06/12/2026 on both pages; page 2 prints 22 TOTAL; parent page labels it Registered Septage Haulers (Updated 06/12/2026)",
+    "retrieved": "2026-11-04",
+    "archive": "data/sources/richland-oh-2026-hauler-list.pdf",
+    "limitations": "Transcribed as printed. Three rows print no phone (- - - or blank). No registration numbers printed; ODH bond unknown. Hauler registration is not an inspection credential. Not an endorsement."
+  },
+  "record_count": 22,
+  "records": [
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "A-1 SEPTIC TANK CLEANING, LLC",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "MIKE MUTCHLER",
+      "address": "1892 BELL RD WOOSTER, OH 44691",
+      "phone": "1-419-368-3566",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "ACTION DRAIN & SEPTIC",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "PAMELA BLANTON",
+      "address": "253 9TH AVE MANSFIELD, OH 44905",
+      "phone": "1-419-774-0323",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "ASHLAND PRICE SEPTIC",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "JEREMY YOUNCE",
+      "address": "734 TOWNSHIP RD 462 SULLIVAN, OH 44880",
+      "phone": "1-419-606-2644",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "B & B DRAIN SERVICE",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "STEVEN R BROWN SR",
+      "address": "401 ASHLAND RD MANSFIELD, OH 44901",
+      "phone": "1-419-524-1992",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "BOND SEPTIC SERVICE",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "RICK BOND",
+      "address": "247 EAST CHESROWN RD MANSFIELD, OH 44903",
+      "phone": "1-419-564-1359",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "JAKE'S JOHNS",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "JAKE HOVERSTOCK",
+      "address": "2227 ST RT 179 JEROMESVILLE, OH 44840",
+      "phone": "1-419-606-1357",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "JOHN R HORNING FOR RICK BOND-LAND APP",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "JOHN R. HORNING",
+      "address": "5923 MANSFIELD ADARIO RD GREENWICH, OH 44837",
+      "phone": null,
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "JOHN'S SEPTIC",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "JOHN VERMILYA",
+      "address": "2186 STATE ROUTE 179 JEROMESVILLE, OH 44840",
+      "phone": "1-419-606-8418",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "KEITH'S DRAIN & SEPTIC SERVICE INC.",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "KEITH SMITH",
+      "address": "1755 ST RT 39 LUCAS, OH 44843",
+      "phone": "1-419-571-8573",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "LACEY PASHEILICH EXCAV. DBA WEBBS SEPTIC",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "STEVE PASHEILICH",
+      "address": "1460 CHEW RD MANSFIELD, OH 44903",
+      "phone": "1-419-522-3539",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "LIBERTY FLUID MANAGEMENT",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "ROB CUTLIP",
+      "address": "696 ST RT 39 PERRYSVILLE, OH 44864",
+      "phone": "1-330-465-7467",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "MILLER SEPTIC",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "SETH MILLER",
+      "address": "2680 COUNTY ROAD 168 DUNDEE, OH 44624",
+      "phone": "1-330-893-2355",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "MT SERVICE INC. DBA MILLER PORTABLES",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "ANDREW MLLER",
+      "address": "2680 COUNTY ROAD 168 DUNDEE, OH 44624",
+      "phone": "1-800-827-6808",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "OYSTER'S RECEPTION & APP.-HAULER'S",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "LARRY OYSTER",
+      "address": "444 ST RT 97 BELLVILLE, OH 44813",
+      "phone": "1-419-886-2214",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "OYSTER'S RECEPTION & APP.-MATT OYSTER-NMS",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "LARRY OYSTER",
+      "address": "444 ST RT 97 E BELLVILLE, OH 44813",
+      "phone": null,
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "OYSTERS RECEPTION & APP.-CHRIS OYSTER NS",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "CHRIS OYSTER",
+      "address": "444 ST RT 97 E BELLVILLE, OH 44813",
+      "phone": null,
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "SHETLER SERVICES INC.",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "GREG SHETLER",
+      "address": "3656 E. MESSNER ROAD WOOSTER, OH 44691",
+      "phone": "1-330-988-4373",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "SIDLE SANITATION SOLUTIONS, LLC BUTLER SAN",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "HEIDI SIDLE",
+      "address": "3173 BROKAW RD BUTLER, OH 44822",
+      "phone": "1-419-595-0701",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "STULL SEPTIC PUMPING LLC",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "NATHAN STULL",
+      "address": "17783 APPLE VALLEY ROAD HOWARD, OH 43028",
+      "phone": "1-740-504-8741",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "TIDY TIM'S, INC.",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "TIMOTHY HACK",
+      "address": "113 E. HIGH STREET EDISON, OH 43320",
+      "phone": "1-419-947-3121",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "UBER DROSS HOLDINGS LLC DBA REDBOX PLUS",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "SCOTT SELLERS",
+      "address": "119 MAIN STREET BELLVILLE, OH 44813",
+      "phone": "1-419-855-5052",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://richlandhealth.org/wp-content/uploads/2026/06/SEWAGE-HAULERS-06-12-2026.pdf",
+      "source_document_date": "2026-06-12",
+      "retrieved": "2026-11-04",
+      "name": "UNITED RENTALS (NORTH AMERICA), INC. DBA RELI",
+      "role": "Richland Public Health registered septage hauler",
+      "operator": "RELIABLE ONSITE SERVICES",
+      "address": "1050 KILLIAN RD AKRON, OH 44312",
+      "phone": "1-330-733-9000",
+      "odh_bond": "unknown"
+    }
+  ]
+}
