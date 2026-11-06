@@ -1,0 +1,139 @@
+{
+  "jurisdiction": "Tuscarawas County, Ohio",
+  "source": {
+    "publisher": "Tuscarawas County Health Department",
+    "title": "2026 Septage Haulers",
+    "url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+    "parent_url": "https://www.tchdnow.org/water-quality-program-well-and-septic.html",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-01-21",
+    "document_date_note": "PDF title 2026 Septage Haulers; footer Last Updated: 01/21/2026 NB; CreationDate 22 January 2026 PST; 10 named rows; name/address/phone only — no operator or local REG # printed",
+    "retrieved": "2026-11-06",
+    "archive": "data/sources/tuscarawas-oh-registered-septage-haulers-2026-01-21.pdf",
+    "archive_txt": "data/sources/tuscarawas-oh-registered-septage-haulers-2026-01-21.txt",
+    "limitations": "Transcribed as printed from Tuscarawas County Health Department PDF 2026_septage_hauler_1_21_2026.pdf linked from Water Quality Program (Well and Septic). 10 named haulers. Spellings kept as printed including Carrolton, Kline's Environment Service, Shetler Services Inc, and Speedie mailing P.O. Box 167. No operators or registration numbers printed; ODH bond unknown. Separate 2026 Septic Service Providers PDF on the same parent page was not used. Hauler registration is not an inspection credential. Not an endorsement."
+  },
+  "record_count": 10,
+  "records": [
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "Chester H3, LLC DBA Erwin Septic Services",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "333 Steubenville RD SE Carrolton, OH 44615",
+      "phone": "1-330-627-4700",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "Jones Jons LLC",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "18959 Anderson RD Quaker City, OH 43773",
+      "phone": "1-740-260-8084",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "Kline's Environment Service",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "2331 TR 606 Dundee, OH 44624",
+      "phone": "1-330-231-7358",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "Miller Septic",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "P.O. Box 328 Berlin, OH 44610",
+      "phone": "1-330-893-2355",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "Patterson Specialty Services",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "300 W Lisbon ST Waynesburg, OH 44688",
+      "phone": "1-330-862-3371",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "Shetler Services Inc",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "3656 E Messner RD Wooster, OH 44691",
+      "phone": "1-330-988-4373",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "Skelley Septic Services LLC",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "869 Olde Orchard DR NE Bolivar, OH 44612",
+      "phone": "1-330-267-8485",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "Speedie Septic",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "5300 Hilltop DR Strasburg, OH 44680 mailing: P.O. Box 167",
+      "phone": "1-330-878-5423",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "T. E. Griffith Septic",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "4060 Dueber Ave SW Canton, OH 44706",
+      "phone": "1-330-484-5554",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.tchdnow.org/uploads/4/2/8/6/42860741/2026_septage_hauler_1_21_2026.pdf",
+      "source_document_date": "2026-01-21",
+      "retrieved": "2026-11-06",
+      "name": "TDT Septic & Excavating LLC",
+      "role": "Tuscarawas County Health Department registered septage hauler",
+      "operator": "unknown",
+      "address": "1515 Midvale Mine RD SE Dennison, OH 44621",
+      "phone": "1-330-407-6025",
+      "local_reg": "unknown",
+      "odh_bond": "unknown"
+    }
+  ]
+}
