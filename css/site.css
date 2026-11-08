@@ -595,3 +595,9 @@ main, footer { overflow-wrap: break-word; }
    states.html: the Minnesota line has an unbreakable "Designer/Installer/Inspector/Service"
    run, so the flex text span would not shrink and pushed the badge to 392px at 390. */
 .state-list li > span:first-child { min-width: 0; overflow-wrap: anywhere; }
+
+/* Designer 2026-11-08: 44px tap targets for phone links in stacked hauler cards (390 fold QA: pa/bucks 39, pa/lancaster 16 under 44px).
+   The Mahoning callout phone is a tel: link outside td.phones and measured 24px, so the rule covers every tel: link at this width. */
+@media (max-width: 47.99rem) {
+  a[href^="tel:"] { display: inline-flex; align-items: center; min-height: 44px; }
+}
