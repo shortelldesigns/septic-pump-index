@@ -1,0 +1,129 @@
+{
+  "jurisdiction": "Wyandot County, Ohio",
+  "source": {
+    "publisher": "Wyandot County Public Health",
+    "title": "Septage Haulers (2026-SEWAGE-HAULERS.pdf)",
+    "url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+    "parent_url": "https://www.wyandothealth.com/forms/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-09-21",
+    "document_date_note": "PDF footer 09/21/2026, Page 1, 10 TOTAL. Linked as Approved Septic Haulers from https://www.wyandothealth.com/forms/. The Home Sewage Treatment topic page still links https://www.wyandothealth.com/media/2025/04/SEWAGE-TREATMENT-04-24-2025.pdf (footer 04/24/2025, 11 TOTAL); that older file was not transcribed. Installer and service-provider lists were not merged.",
+    "retrieved": "2026-11-09",
+    "archive": "data/sources/wyandot-oh-2026-septage-haulers.pdf",
+    "archive_txt": "data/sources/wyandot-oh-2026-septage-haulers.txt",
+    "limitations": "Transcribed from Wyandot County Public Health Septage Haulers PDF (2026-SEWAGE-HAULERS.pdf; footer 09/21/2026; 10 TOTAL), linked as Approved Septic Haulers from the Forms page. Publisher block on the PDF: 127-A SOUTH SANDUSKY AVENUE, UPPER SANDUSKY, OH 43351, Phone 1-419-294-3852, Fax 1-419-294-6424. Spellings kept as printed, including MR. FIXALL HANDYMAN SERVICES, LLC DBA MR. FIX and MT SERVICES INC DBA MILLER PORTABLES. MT SERVICES INC DBA MILLER PORTABLES has no operator name line (operator null). SMOKEY'S MINI LAKE CAMPGROUNDS phone is printed as - - - (phone null; no number invented). Street and city lines are joined with a space as printed. No local registration numbers on this PDF. ODH statewide bond status is not on this PDF (marked unknown). The Home Sewage Treatment topic page still links SEWAGE-TREATMENT-04-24-2025.pdf (footer 04/24/2025, 11 TOTAL); that older roster was not transcribed and was not merged. Installer and service-provider lists were not merged. A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with Wyandot County Public Health and ODH before you hire."
+  },
+  "record_count": 10,
+  "records": [
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "BHC ENVIRONMENTAL LLC",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": "JACK BUGNER",
+      "address": "P O BOX 230 FOSTORIA, OH 44830",
+      "phone": "1-419-435-3977",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "DISTEL'S SEPTIC SERVICE",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": "AARON DISTEL",
+      "address": "30 ELLA ST. TIFFIN, OH 44883",
+      "phone": "1-419-448-0250",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "JB WALTER CONSTRUCTION",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": "BRYCE WALTER",
+      "address": "P O BOX 179 WHARTON, OH 43359",
+      "phone": "1-419-458-2425",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "JB WALTER PORTABLES",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": "BRAD WALTER",
+      "address": "18590 TWP. RD. 155 MT. BLANCHARD, OH 45867",
+      "phone": "1-419-694-7895",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "MR. FIXALL HANDYMAN SERVICES, LLC DBA MR. FIX",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": "COLLIN MOSLEY",
+      "address": "2034 HARDING HWY. EAST MARION, OH 43302",
+      "phone": "1-740-341-4048",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "MT SERVICES INC DBA MILLER PORTABLES",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": null,
+      "address": "2680 CO. RD. 168 DUNDEE, OH 44624",
+      "phone": "1-800-827-6808",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "SMOKEY'S MINI LAKE CAMPGROUNDS",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": "WILLIAM CLABAUGH",
+      "address": "9527 ST. HWY. 199 UPPER SANDUSKY, OH 43351",
+      "phone": null,
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "STIGER PRECAST, INC.",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": "MIKE STIGER",
+      "address": "17793 STATE HIGHWAY 231 NEVADA, OH 44849",
+      "phone": "1-740-482-2313",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "THEIS SEPTIC CLEANING LLC",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": "CHARLES THEIS",
+      "address": "2729 EAST U.S. HWY. 224 TIFFIN, OH 44883",
+      "phone": "1-419-447-9149",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.wyandothealth.com/media/2026/09/2026-SEWAGE-HAULERS.pdf",
+      "source_document_date": "2026-09-21",
+      "retrieved": "2026-11-09",
+      "name": "TIDY TIM",
+      "role": "Wyandot County Public Health registered septage hauler",
+      "operator": "TIM HACK",
+      "address": "6434 COUNTY ROAD 100 MT. GILEAD, OH 43338",
+      "phone": "1-419-947-3121",
+      "odh_bond": "unknown"
+    }
+  ]
+}
