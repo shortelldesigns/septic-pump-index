@@ -1,0 +1,151 @@
+{
+  "jurisdiction": "Greene County, Ohio",
+  "source": {
+    "publisher": "Greene County Public Health",
+    "title": "Septage Haulers (Registered Septage Haulers.pdf)",
+    "url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+    "parent_url": "https://www.greenecophoh.gov/environmental-health/private-sewer-systems",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-07-28",
+    "document_date_note": "PDF footer 07/28/2026 on both pages; Page 2 prints 12 TOTAL. Linked as Registered Sewage Haulers from https://www.greenecophoh.gov/environmental-health/private-sewer-systems. RICOH IM C7010 scan (CreationDate 2026-07-28 18:35:11 UTC, 2 pages, page rot 270); pdftotext extracts no text. Registered Installers and Registered Service Providers PDFs on the parent page were not transcribed. The ODH statewide bond list was not merged.",
+    "retrieved": "2026-11-09",
+    "archive": "data/sources/greene-oh-2026-registered-septage-haulers.pdf",
+    "archive_txt": "data/sources/greene-oh-2026-registered-septage-haulers.txt",
+    "limitations": "Transcribed from Greene County Public Health Septage Haulers PDF (Registered Septage Haulers.pdf; footer 07/28/2026 on both pages; Page 2 prints 12 TOTAL), linked as Registered Sewage Haulers from the On-site Sewage Systems page (https://www.greenecophoh.gov/environmental-health/private-sewer-systems). Publisher block on the PDF: 360 WILSON DRIVE, XENIA, OH 45385-1810, Phone 1-937-374-5661, Fax 1-937-374-5675. RICOH IM C7010 scan (CreationDate 2026-07-28 18:35:11 UTC, 2 pages, page rotation 270); pdftotext extracts no text. The archived .txt is a manual transcription checked against the official PDF. Spellings kept as printed, including two separate Blue Ox rows (BLUE OX PORTABLE SERVICES, LLC with operator JARRETT TEST/WHITNEY MOORE, and BLUE OX SEPTIC SERVICES with operator JARRETT TEST), JOHNS RELIABLE SEPTIC with no apostrophe, C T BROWN SANITATION with spaces, and TRENTEL'S PORTABLES with the apostrophe. Street and city lines are joined with a space as printed. No local registration numbers on this PDF. ODH statewide bond status is not on this PDF (marked unknown). Registered Installers and Registered Service Providers PDFs on the parent page were not transcribed and were not merged. The ODH statewide septage-hauler bond list was not merged. A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with Greene County Public Health and ODH before you hire."
+  },
+  "record_count": 12,
+  "records": [
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "A TO Z SEPTIC & PUMPING",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "GLEN HENDERSON",
+      "address": "23 POWELL AVE FAIRBORN, OH 45324",
+      "phone": "1-937-829-1858",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "BLUE OX PORTABLE SERVICES, LLC",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "JARRETT TEST/WHITNEY MOORE",
+      "address": "1149 E HOOP RD XENIA, OH 45385",
+      "phone": "1-937-751-0255",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "BLUE OX SEPTIC SERVICES",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "JARRETT TEST",
+      "address": "1149 E HOOP RD XENIA, OH 45385",
+      "phone": "1-937-751-0255",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "BUCKEYE SANITARY SERVICES LLC",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "EDDIS & CRAIG WISEMAN",
+      "address": "1236 VILLA ROAD SPRINGFIELD, OH 45503",
+      "phone": "1-937-399-3242",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "C T BROWN SANITATION",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "THOMAS BROWN",
+      "address": "1752 JONES RD XENIA, OH 45385",
+      "phone": "1-937-372-5180",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "JOHNS RELIABLE SEPTIC",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "JOHN MANUS JR",
+      "address": "8710 SOUTH CHARLESTON RD SOUTH CHARLESTON, OH 45368",
+      "phone": "1-937-926-1482",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "RAEGON SEPTIC",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "JEREMY BRIDENBAUGH",
+      "address": "5183 S RANGELINE RD WEST MILTON, OH 45383",
+      "phone": "1-937-733-8456",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "RUMPKE TRANSPORTATION COMPANY LLC",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "KRISTEN DETTY",
+      "address": "3975 WAGNER FORD ROAD DAYTON, OH 45251",
+      "phone": "1-800-828-8171",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "SEPTEK SERVICE PROS LLC",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "STEPHEN ERICSON",
+      "address": "3812 SOLDIERS HOME ROAD MIAMISBURG, OH 45342",
+      "phone": "1-937-746-2663",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "THAT SEPTIC GUY",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "JAY REED",
+      "address": "5657 MOOREFIELD RD SPRINGFIELD, OH 45502",
+      "phone": "1-937-342-0629",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "THE WATERWORKS",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "TIM CAIN",
+      "address": "550 SCHROCK RD COLUMBUS, OH 43229",
+      "phone": "1-614-876-0999",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.greenecophoh.gov/platform/cms/Environmental%20Health%20Documents/Sewage/Registered%20Septage%20Haulers.pdf",
+      "source_document_date": "2026-07-28",
+      "retrieved": "2026-11-09",
+      "name": "TRENTEL'S PORTABLES",
+      "role": "Greene County Public Health registered septage hauler",
+      "operator": "MATT TRENTEL",
+      "address": "5225 GLENMINA DR DAYTON, OH 45440",
+      "phone": "1-937-673-1070",
+      "odh_bond": "unknown"
+    }
+  ]
+}
