@@ -1,0 +1,118 @@
+{
+  "jurisdiction": "Van Wert County, Ohio",
+  "source": {
+    "publisher": "Van Wert County Health Department",
+    "title": "Septage Haulers (SEPTAGE-HAULERS-6-9-26.pdf)",
+    "url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+    "parent_url": "https://vanwertcountyhealth.org/household-sewage-treatment-systems/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-06-09",
+    "document_date_note": "PDF footer 06/09/2026, Page 1, 9 TOTAL. Linked as Septage Haulers from https://vanwertcountyhealth.org/household-sewage-treatment-systems/. HDIS text-layer PDF (Title \"HDIS PDF\", Author \"HDIS Sewage Treatment\", CreationDate 2026-06-09 18:22:35 UTC, 1 page, page rot 0, 7213 bytes). The Sewage Treatment System Installers PDF (INSTALLERS-6-9-26.pdf) and the Service Providers PDF (SERVICE-PROVIDERS-2026.pdf) on the parent page were not transcribed. The ODH statewide bond list was not merged. Eight firm phones are printed with a stray leading hyphen and no leading 1; stored and shown without that hyphen and without added or changed digits. BLUFFTON AERATION SERVICE, INC. stays 1-419-358-9673.",
+    "retrieved": "2026-11-10",
+    "archive": "data/sources/van-wert-oh-2026-septage-haulers.pdf",
+    "archive_txt": "data/sources/van-wert-oh-2026-septage-haulers.txt",
+    "limitations": "Transcribed from the Van Wert County Health Department Septage Haulers PDF (SEPTAGE-HAULERS-6-9-26.pdf; footer 06/09/2026; Page 1 prints 9 TOTAL), linked as Septage Haulers from the Household Sewage Treatment Systems page (https://vanwertcountyhealth.org/household-sewage-treatment-systems/). Publisher block on the PDF: 1179 WESTWOOD DRIVE, VAN WERT, OH 45891, Phone 1-419-238-0808, Fax 1-419-238-9571. HDIS text-layer file (Title HDIS PDF, Author HDIS Sewage Treatment, CreationDate 2026-06-09 18:22:35 UTC, 1 page, page rotation 0). The archived .txt is the pdftotext -layout extract and still shows the printed leading hyphens. Spellings kept as printed, including HORSES SANITATION SERVICE LLC with no apostrophe, GROTHOUSE PLBG. & HTG. INC. with the abbreviations and periods, GRIER'S POWER DIGGING LLC and MIKE'S SANITATION, INC. with apostrophes, BLUFFTON AERATION SERVICE, INC. with the comma and INC., and FISCHER PLUMBING & HEATING, OHIO SANITARY SERVICES, and TRESSLER PLUMBING with no LLC suffix. Street and city lines are joined with a space as printed. No local registration numbers on this PDF. Phones are shown as printed apart from a stray leading hyphen the HDIS export adds on eight numbers; no digits were added or changed, and BLUFFTON AERATION SERVICE, INC. stays 1-419-358-9673. ODH statewide bond status is not on this PDF (marked unknown). The Sewage Treatment System Installers PDF and the Service Providers PDF on the parent page were not transcribed and were not merged. The ODH statewide septage-hauler bond list was not merged. A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with the Van Wert County Health Department and ODH before you hire."
+  },
+  "record_count": 9,
+  "records": [
+    {
+      "source_url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+      "source_document_date": "2026-06-09",
+      "retrieved": "2026-11-10",
+      "name": "BLUFFTON AERATION SERVICE, INC.",
+      "role": "Van Wert County Health Department registered septage hauler",
+      "operator": "ROBERT C. STRAHM",
+      "address": "PO BOX 209 BLUFFTON, OH 45817",
+      "phone": "1-419-358-9673",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+      "source_document_date": "2026-06-09",
+      "retrieved": "2026-11-10",
+      "name": "FISCHER PLUMBING & HEATING",
+      "role": "Van Wert County Health Department registered septage hauler",
+      "operator": "JASON BUETTNER",
+      "address": "7788 GERMAN ROAD DELPHOS, OH 45833",
+      "phone": "419-692-8901",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+      "source_document_date": "2026-06-09",
+      "retrieved": "2026-11-10",
+      "name": "GRIER'S POWER DIGGING LLC",
+      "role": "Van Wert County Health Department registered septage hauler",
+      "operator": "NICK GRIER",
+      "address": "9422 STATE ROUTE 118 ROCKFORD, OH 45882",
+      "phone": "419-363-3390",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+      "source_document_date": "2026-06-09",
+      "retrieved": "2026-11-10",
+      "name": "GROTHOUSE PLBG. & HTG. INC.",
+      "role": "Van Wert County Health Department registered septage hauler",
+      "operator": "J. GROTHOUSE",
+      "address": "901 S. MAIN ST. DELPHOS, OH 45833",
+      "phone": "419-695-3081",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+      "source_document_date": "2026-06-09",
+      "retrieved": "2026-11-10",
+      "name": "HORSES SANITATION SERVICE LLC",
+      "role": "Van Wert County Health Department registered septage hauler",
+      "operator": "GREG DECOURSEY",
+      "address": "9235 CLUM RD. HARROD, OH 45850",
+      "phone": "419-235-7143",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+      "source_document_date": "2026-06-09",
+      "retrieved": "2026-11-10",
+      "name": "MIKE'S SANITATION, INC.",
+      "role": "Van Wert County Health Department registered septage hauler",
+      "operator": "RYAN EVERS",
+      "address": "8810 BROCKMAN RD. NEW BREMEN, OH 45869",
+      "phone": "419-629-3695",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+      "source_document_date": "2026-06-09",
+      "retrieved": "2026-11-10",
+      "name": "OHIO SANITARY SERVICES",
+      "role": "Van Wert County Health Department registered septage hauler",
+      "operator": "GARY HERMILLER",
+      "address": "11698 SR 115 OTTAWA, OH 45875",
+      "phone": "419-523-3016",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+      "source_document_date": "2026-06-09",
+      "retrieved": "2026-11-10",
+      "name": "SPOOR CONTRACTING",
+      "role": "Van Wert County Health Department registered septage hauler",
+      "operator": "JERRY SPOOR",
+      "address": "10812 LINCOLN HIGHWAY VAN WERT, OH 45891",
+      "phone": "419-203-6315",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://vanwertcountyhealth.org/wp-content/uploads/2026/08/SEPTAGE-HAULERS-6-9-26.pdf",
+      "source_document_date": "2026-06-09",
+      "retrieved": "2026-11-10",
+      "name": "TRESSLER PLUMBING",
+      "role": "Van Wert County Health Department registered septage hauler",
+      "operator": "DOUG TRESSLER",
+      "address": "PO BOX 433 DEFIANCE, OH 43512",
+      "phone": "419-782-1256",
+      "odh_bond": "unknown"
+    }
+  ]
+}
