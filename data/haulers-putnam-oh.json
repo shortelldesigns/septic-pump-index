@@ -1,0 +1,195 @@
+{
+  "jurisdiction": "Putnam County, Ohio",
+  "source": {
+    "publisher": "Putnam County Health Department",
+    "title": "Septage Haulers (SEWAGEHAULER-06-08-2026.pdf)",
+    "url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+    "parent_url": "https://putnamhealth.com/services/sewage/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-06-08",
+    "document_date_note": "PDF footer 06/08/2026 on both pages; Page 2 prints 16 TOTAL. Linked as Putnam County Registered Septic Haulers/Pumpers from https://putnamhealth.com/services/sewage/. The WordPress path /2025/09/ is only the media-library folder; the document is the 8 June 2026 roster. HDIS text-layer PDF (Title \"HDIS PDF\", Author \"HDIS Sewage Treatment\", CreationDate 2026-06-08 19:13:20 UTC, 2 pages, page rot 0, 8842 bytes, Last-Modified 8 June 2026 18:14:07 GMT). The Registered Septic System Installers PDF and the Registered Septic System Service Providers PDF on the parent page were not transcribed. The older 28 October 2024 combined service-provider/hauler PDF was not used. The ODH statewide bond list was not merged. Brinkman Sanitation Rentals phone is printed with a stray leading hyphen and no leading 1; stored and shown as 419-523-3726 without that hyphen and without added or changed digits. The official PDF truncates the last firm name at UNITED RENTALS (NORTH AMERICA), INC.; DBA: RE.",
+    "retrieved": "2026-11-10",
+    "archive": "data/sources/putnam-oh-2026-septage-haulers.pdf",
+    "archive_txt": "data/sources/putnam-oh-2026-septage-haulers.txt",
+    "limitations": "Transcribed from the Putnam County Health Department Septage Haulers PDF (SEWAGEHAULER-06-08-2026.pdf; footer 06/08/2026 on both pages; Page 2 prints 16 TOTAL), linked as Putnam County Registered Septic Haulers/Pumpers from the Sewage page (https://putnamhealth.com/services/sewage/). Publisher block on the PDF: 256 WILLIAMSTOWN ROAD, OTTAWA, OH 45875, Phone 1-419-523-5608, Fax 1-419-523-4171. HDIS text-layer file (Title HDIS PDF, Author HDIS Sewage Treatment, CreationDate 2026-06-08 19:13:20 UTC, 2 pages, page rotation 0, 8842 bytes). The archived .txt is the pdftotext -layout extract and still shows Brinkman's printed leading hyphen and the truncated last firm name. Spellings kept as printed, including ALL SERVICE AERATION, INC with no period after INC, operator BUETTNER, JASON last-name-first, HORSE'S SANITATION SERVICES LLC with the apostrophe and the plural SERVICES, FUSIONSITE OHIO LLC DBA C & L SANITATION and operator TOM & ROBIN L STANGE, and the truncated last firm name UNITED RENTALS (NORTH AMERICA), INC.; DBA: RE kept exactly (not completed from another county list). Street and city lines are joined with a space as printed. No local registration numbers on this PDF. Phones are shown as printed apart from a stray leading hyphen the HDIS export adds on Brinkman Sanitation Rentals; no digits were added or changed (visible and stored 419-523-3726, not -419-523-3726 and not 1-419-523-3726). ODH statewide bond status is not on this PDF (marked unknown). The Registered Septic System Installers PDF and the Registered Septic System Service Providers PDF on the parent page were not transcribed and were not merged. The older 28 October 2024 combined service-provider/hauler PDF still in the media library was not used. The ODH statewide septage-hauler bond list was not merged. A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with the Putnam County Health Department and ODH before you hire."
+  },
+  "record_count": 16,
+  "records": [
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "ALL SERVICE AERATION, INC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "RANDY MATTER",
+      "address": "129 LAKE ST BLUFFTON, OH 45817",
+      "phone": "1-419-358-6815",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "ALLEN HUGHES SEPTIC TANK SERVICE, LLC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "DALE WILSON",
+      "address": "6518 HAY ROAD HARROD, OH 45850",
+      "phone": "1-419-648-5288",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "BLUFFTON AERATION SERVICE",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "ROB STRAHM",
+      "address": "PO BOX 209 BLUFFTON, OH 45817",
+      "phone": "1-419-358-1936",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "BRINKMAN SANITATION RENTALS",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "RON BRINKMAN",
+      "address": "13136 RD 14 OTTAWA, OH 45875",
+      "phone": "419-523-3726",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "DIG AND DRAIN EXCAVATING COMPANY LLC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "ELIJAH MANNS",
+      "address": "4438 N THAYER RD LIMA, OH 45807",
+      "phone": "1-419-731-3187",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "FISCHER PLUMBING & HEATING",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "BUETTNER, JASON",
+      "address": "7788 GERMAN RD DELPHOS, OH 45833",
+      "phone": "1-419-692-8901",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "FUSIONSITE OHIO LLC DBA C & L SANITATION",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "TOM & ROBIN L STANGE",
+      "address": "PO BOX 691 PERRYSBURG, OH 43552",
+      "phone": "1-419-874-4653",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "GROTHOUSE PLUMBING & HEATING",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "JAMES T. GROTHOUSE",
+      "address": "901 S. MAIN STREET DELPHOS, OH 45833",
+      "phone": "1-419-695-3081",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "HORSE'S SANITATION SERVICES LLC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "GREGORY DECOURSEY II",
+      "address": "9235 CLUM RD HARROD, OH 45850",
+      "phone": "1-419-235-7143",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "KOOP'S SEPTIC SERVICE LLC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "JASON KUPFERSMITH",
+      "address": "457 S. WILHELM ST. HOLGATE, OH 43527",
+      "phone": "1-419-906-4176",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "OHIO SANITARY SERVICES, LLC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "GARY HERMILLER",
+      "address": "PO BOX 66 OTTAWA, OH 45875",
+      "phone": "1-419-523-3016",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "ROBERTS SEWER SERVICE & EXCAVATING, LLC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "CHARLIE AVERESCH",
+      "address": "805 N AGNER ST OTTAWA, OH 45875",
+      "phone": "1-419-523-4138",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "SEPTIC AND SEWER SOLUTIONS LLC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "SHANE EBERLE",
+      "address": "14295 COUNTY ROAD Z NAPOLEON, OH 43545",
+      "phone": "1-419-533-6351",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "TOM VERHOFF EXCAVATING LLC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "TOM VERHOFF",
+      "address": "7075 RD 15-C OTTAWA, OH 45875",
+      "phone": "1-419-876-3958",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "TRESSLER PLUMBING LLC",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "DOUG TRESSLER",
+      "address": "PO BOX 433 DEFIANCE, OH 43512",
+      "phone": "1-419-782-1256",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://putnamhealth.com/wp-content/uploads/2025/09/SEWAGEHAULER-06-08-2026.pdf",
+      "source_document_date": "2026-06-08",
+      "retrieved": "2026-11-10",
+      "name": "UNITED RENTALS (NORTH AMERICA), INC.; DBA: RE",
+      "role": "Putnam County Health Department registered septage hauler",
+      "operator": "JEFFREY WALKER",
+      "address": "1652 HOLLAND RD MAUMEE, OH 43537",
+      "phone": "1-856-305-6625",
+      "odh_bond": "unknown"
+    }
+  ]
+}
