@@ -1,0 +1,107 @@
+{
+  "jurisdiction": "Williams County, Ohio",
+  "source": {
+    "publisher": "Williams County Health Department",
+    "title": "Septage Haulers (Haulers-2026-1.pdf)",
+    "url": "https://www.williamscountyhealth.org/wp-content/uploads/2026/03/Haulers-2026-1.pdf",
+    "parent_url": "https://www.williamscountyhealth.org/environmental-health/septic-2/",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-02-19",
+    "document_date_note": "Printed footer 02/19/2026, Page 1, 8 TOTAL. Linked as Haulers/Pumpers from https://www.williamscountyhealth.org/environmental-health/septic-2/. Official file is a 1-page scan (Creator/Producer LANIER MP C3004, CreationDate 2026-02-19 18:41:03 UTC, page size 792 x 612 pts, page rot 270, 820912 bytes, SHA-256 0374b983ebdf3e4fb8277eb5fa546cec48dac4f07eaa7047ecb49efc8d2359c3, HTTP 200, Last-Modified 17 March 2026 13:54:48 GMT). The WordPress path /2026/03/ is the media-library folder; the document date used is the printed footer. The Installers PDF (Installer-20261.pdf) and the Service Provider PDF (Service-Provider.pdf) on the parent page were not transcribed. The ODH statewide bond list was not merged.",
+    "retrieved": "2026-11-13",
+    "archive": "data/sources/williams-oh-2026-septage-haulers.pdf",
+    "archive_txt": "data/sources/williams-oh-2026-septage-haulers.txt",
+    "limitations": "Transcribed from the Williams County Health Department Septage Haulers PDF (Haulers-2026-1.pdf; printed footer 02/19/2026; Page 1 prints 8 TOTAL), linked as Haulers/Pumpers from the Household Sewage Treatment Systems page (https://www.williamscountyhealth.org/environmental-health/septic-2/). Publisher block on the PDF: 310 LINCOLN AVE, MONTPELIER, OH 43543, Phone 1-419-485-3141, Fax 1-419-485-5420. The official file is a one-page scan (LANIER MP C3004, CreationDate 2026-02-19 18:41:03 UTC, page rotation 270, no text layer). The archived .txt is a visual transcription of the printed page. Spellings kept as printed, including AUTOMATIC SEPTIC & WELL, CO. with the comma and CO., FISCHER PLUMBING & HEATING INC with no period after INC and operator FISCHER PLUMBING AND HEATING, LAYMAN SEPTIC TANK & DRAIN CLEANING LLC address 18-408 CTY RD 20 with the hyphen, PRECISION WELL AND SEPTIC, LLC with AND and the comma before LLC, UNITED RENTALS (NORTH AMERICA) INC with no comma or period after INC and operator line DBA: RELIABLE ONSITE SERVICES, and TRESSLER PLUMBING LLC address BOX 433. Street and city lines are joined with a space as printed. No local registration numbers on this PDF. Phones are shown as printed. ODH statewide bond status is not on this PDF (marked unknown). The Installers PDF and the Service Provider PDF on the parent page were not transcribed and were not merged. The ODH statewide septage-hauler bond list was not merged. A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with the Williams County Health Department and ODH before you hire."
+  },
+  "record_count": 8,
+  "records": [
+    {
+      "source_url": "https://www.williamscountyhealth.org/wp-content/uploads/2026/03/Haulers-2026-1.pdf",
+      "source_document_date": "2026-02-19",
+      "retrieved": "2026-11-13",
+      "name": "AUTOMATIC SEPTIC & WELL, CO.",
+      "role": "Williams County Health Department registered septage hauler",
+      "operator": "LLOYD PANT",
+      "address": "1529 KIESWETTER RD HOLLAND, OH 43528",
+      "phone": "1-419-865-3456",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.williamscountyhealth.org/wp-content/uploads/2026/03/Haulers-2026-1.pdf",
+      "source_document_date": "2026-02-19",
+      "retrieved": "2026-11-13",
+      "name": "FISCHER PLUMBING & HEATING INC",
+      "role": "Williams County Health Department registered septage hauler",
+      "operator": "FISCHER PLUMBING AND HEATING",
+      "address": "7788 GERMAN RD DELPHOS, OH 45833",
+      "phone": "1-419-692-8901",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.williamscountyhealth.org/wp-content/uploads/2026/03/Haulers-2026-1.pdf",
+      "source_document_date": "2026-02-19",
+      "retrieved": "2026-11-13",
+      "name": "GRABER INVESTMENTS",
+      "role": "Williams County Health Department registered septage hauler",
+      "operator": "DAVE GRABER",
+      "address": "1536 BUCKSKIN RD HICKSVILLE, OH 43526",
+      "phone": "1-260-479-8201",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.williamscountyhealth.org/wp-content/uploads/2026/03/Haulers-2026-1.pdf",
+      "source_document_date": "2026-02-19",
+      "retrieved": "2026-11-13",
+      "name": "LAYMAN SEPTIC TANK & DRAIN CLEANING LLC",
+      "role": "Williams County Health Department registered septage hauler",
+      "operator": "RANDY LAYMAN",
+      "address": "18-408 CTY RD 20 ALVORDTON, OH 43501",
+      "phone": "1-419-737-2094",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.williamscountyhealth.org/wp-content/uploads/2026/03/Haulers-2026-1.pdf",
+      "source_document_date": "2026-02-19",
+      "retrieved": "2026-11-13",
+      "name": "NORTHWEST SEPTIC SERVICE LLC",
+      "role": "Williams County Health Department registered septage hauler",
+      "operator": "RODNEY ROBBINS",
+      "address": "18204 GIPE RD NEY, OH 43549",
+      "phone": "1-419-658-2400",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.williamscountyhealth.org/wp-content/uploads/2026/03/Haulers-2026-1.pdf",
+      "source_document_date": "2026-02-19",
+      "retrieved": "2026-11-13",
+      "name": "PRECISION WELL AND SEPTIC, LLC",
+      "role": "Williams County Health Department registered septage hauler",
+      "operator": "CHRISTOPHER HOUCHINS",
+      "address": "N607 CTY RD 15C NAPOLEON, OH 43545",
+      "phone": "1-419-966-6321",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.williamscountyhealth.org/wp-content/uploads/2026/03/Haulers-2026-1.pdf",
+      "source_document_date": "2026-02-19",
+      "retrieved": "2026-11-13",
+      "name": "TRESSLER PLUMBING LLC",
+      "role": "Williams County Health Department registered septage hauler",
+      "operator": "DOUG TRESSLER",
+      "address": "BOX 433 DEFIANCE, OH 43512",
+      "phone": "1-419-782-1256",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.williamscountyhealth.org/wp-content/uploads/2026/03/Haulers-2026-1.pdf",
+      "source_document_date": "2026-02-19",
+      "retrieved": "2026-11-13",
+      "name": "UNITED RENTALS (NORTH AMERICA) INC",
+      "role": "Williams County Health Department registered septage hauler",
+      "operator": "DBA: RELIABLE ONSITE SERVICES",
+      "address": "1652 HOLLAND RD MAUMEE, OH 43537",
+      "phone": "1-419-318-1774",
+      "odh_bond": "unknown"
+    }
+  ]
+}
