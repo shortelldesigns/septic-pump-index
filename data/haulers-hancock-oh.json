@@ -1,0 +1,142 @@
+{
+  "jurisdiction": "Hancock County, Ohio",
+  "source": {
+    "publisher": "Hancock Public Health",
+    "title": "2026 REGISTERED SEPTAGE HAULERS",
+    "url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+    "parent_url": "https://www.hancockph.com/forms-and-permits",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-01-29",
+    "document_date_note": "Printed title 2026 REGISTERED SEPTAGE HAULERS. Footer updated: 1/29/2026, page 1. Linked as “2026 Licensed Septage Haulers” from https://www.hancockph.com/forms-and-permits. Official file HTTP 200 after the site’s 301 to the Wix file host, 394033 bytes, SHA-256 8b1ff36b1841727c95b78d0f276d010c82926a987df272ccdb93898598caaf02, Last-Modified Tue, 07 Jul 2026 13:02:35 GMT, CreationDate 2026-01-29 16:53:46 UTC, Producer Microsoft: Print To PDF, page size 792 x 612 pts letter. The Wix Last-Modified date is the file-host date; the document date used is the printed footer updated: 1/29/2026. The roster prints 11 named firms and no TOTAL line. The Hancock Public Health sewage page (https://www.hancockph.com/sewage) does not link this roster. Designer, installer, inspector, and registration-form PDFs on the Forms and Permits page were not transcribed. The ODH statewide bond list was not merged.",
+    "retrieved": "2026-11-14",
+    "archive": "data/sources/hancock-oh-2026-septage-haulers.pdf",
+    "archive_txt": "data/sources/hancock-oh-2026-septage-haulers.txt",
+    "limitations": "Transcribed from the Hancock Public Health PDF 2026 REGISTERED SEPTAGE HAULERS, linked as “2026 Licensed Septage Haulers” from the Forms and Permits page (https://www.hancockph.com/forms-and-permits). Printed footer updated: 1/29/2026, page 1. Publisher block on the PDF: 2225 Keith Parkway, Findlay, Ohio 45840, Phone 419-424-7105, Fax 419-424-7872, www.HancockPH.com. The footer wraps the title as “2026 REGISTERED SEPTAGE WAISTE HAULERS” (WAISTE as printed). The roster prints 11 named firms and no TOTAL line; this file has 11 records. Columns are NAME, ADDRESS, CITY, Phone, and Alt Phone. Operator names and local registration numbers are not on this PDF and are omitted. Spellings kept as printed, including STIGER PRECAST INC. with a period after INC., TE PRICE INC and RANDY MASTIN SEPTIC TANK INC with no period after INC, HORSES SANITATION SERVICE without an apostrophe, DISTEL'S SEPTIC SERVICE with the apostrophe, and RELIABLE ONSITE SERVICES as the NAME (not United Rentals). The printed name RANDY MASTIN SEPTIC TANK INC overflows the NAME column; the C of INC crosses the grid line into the ADDRESS cell, which prints 12004 WATERVILLE on the first line and SWANTON RD on the second; those address lines are joined with a space. HOOVER SEPTIC TANK CLEANING and ALLEN HUGHES SEPTIC TANK SERVICE wrap inside the NAME column and are joined with a space. Phones are shown as printed, including Alt Phone 419-409-0344 on TE PRICE INC and the repeated 313-676-1083 Alt Phone on RELIABLE ONSITE SERVICES. ODH statewide bond status is not on this PDF (marked unknown). Designer, installer, inspector, and registration-form PDFs on the Forms and Permits page were not transcribed and were not merged. The ODH statewide septage-hauler bond list was not merged. A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with Hancock Public Health and ODH before you hire."
+  },
+  "record_count": 11,
+  "records": [
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "STIGER PRECAST INC.",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "17793 ST HWY 231",
+      "city": "NEVADA, OH 44849",
+      "phone": "740-482-2313",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "BLUFFTON AERATION SERVICE",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "P.O. BOX 209",
+      "city": "BLUFFTON, OH 45817",
+      "phone": "419-358-1936",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "TE PRICE INC",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "9758 REYNOLDS RD",
+      "city": "WAYNE, OH 43466",
+      "phone": "419-288-2195",
+      "odh_bond": "unknown",
+      "alt_phone": "419-409-0344"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "RANDY MASTIN SEPTIC TANK INC",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "12004 WATERVILLE SWANTON RD",
+      "city": "WHITEHOUSE, OH 43571",
+      "phone": "419-877-5351",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "THEIS SEPTIC CLEANING",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "2729 E. US HWY. 224",
+      "city": "TIFFIN, OH 44883",
+      "phone": "419-447-9149",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "RELIABLE ONSITE SERVICES",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "1652 HOLLAND RD",
+      "city": "MAUMEE, OH 43537",
+      "phone": "313-676-1083",
+      "odh_bond": "unknown",
+      "alt_phone": "313-676-1083"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "DISTEL'S SEPTIC SERVICE",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "30 ELLA ST.",
+      "city": "TIFFIN, OH 44883",
+      "phone": "419-448-0250",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "ALL SERVICE AERATION",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "129 LAKE ST.",
+      "city": "BLUFFTON, OH 45817",
+      "phone": "419-358-6815",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "HOOVER SEPTIC TANK CLEANING",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "1520 N TR 111",
+      "city": "TIFFIN, OH 44883",
+      "phone": "419-937-2881",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "ALLEN HUGHES SEPTIC TANK SERVICE",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "6518 HAY ROAD",
+      "city": "HARROD, OH 45850",
+      "phone": "419-648-5288",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf",
+      "source_document_date": "2026-01-29",
+      "retrieved": "2026-11-14",
+      "name": "HORSES SANITATION SERVICE",
+      "role": "Hancock Public Health registered septage hauler",
+      "address": "9235 CLUM RD.",
+      "city": "HARROD, OH 45850",
+      "phone": "419-648-9135",
+      "odh_bond": "unknown"
+    }
+  ]
+}

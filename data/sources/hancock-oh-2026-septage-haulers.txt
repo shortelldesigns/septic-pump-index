@@ -1,0 +1,47 @@
+                                Hancock Public Health
+                      Your Recognized Leader in Population Health
+
+                        2026 REGISTERED SEPTAGE HAULERS
+
+NAME                            ADDRESS                    CITY                     Phone         Alt Phone
+STIGER PRECAST INC.             17793 ST HWY 231           NEVADA, OH 44849         740-482-2313
+BLUFFTON AERATION SERVICE       P.O. BOX 209               BLUFFTON, OH 45817       419-358-1936
+TE PRICE INC                    9758 REYNOLDS RD           WAYNE, OH 43466          419-288-2195  419-409-0344
+RANDY MASTIN SEPTIC TANK INC    12004 WATERVILLE           WHITEHOUSE, OH 43571     419-877-5351
+                                SWANTON RD
+THEIS SEPTIC CLEANING           2729 E. US HWY. 224        TIFFIN, OH 44883         419-447-9149
+RELIABLE ONSITE SERVICES        1652 HOLLAND RD            MAUMEE, OH 43537         313-676-1083  313-676-1083
+DISTEL'S SEPTIC SERVICE         30 ELLA ST.                TIFFIN, OH 44883         419-448-0250
+ALL SERVICE AERATION            129 LAKE ST.               BLUFFTON, OH 45817       419-358-6815
+HOOVER SEPTIC TANK              1520 N TR 111              TIFFIN, OH 44883         419-937-2881
+CLEANING
+ALLEN HUGHES SEPTIC TANK        6518 HAY ROAD              HARROD, OH 45850         419-648-5288
+SERVICE
+HORSES SANITATION SERVICE       9235 CLUM RD.              HARROD, OH 45850         419-648-9135
+
+2026 REGISTERED SEPTAGE          2225 Keith Parkway, Findlay, Ohio 45840             updated: 1/29/2026
+WAISTE HAULERS                   Phone: 419-424-7105 |Fax: 419-424-7872 |www.HancockPH.com              1
+
+Note: Official 1-page PDF linked as “2026 Licensed Septage Haulers” from
+https://www.hancockph.com/forms-and-permits
+(https://www.hancockph.com/_files/ugd/329703_5295ea3c96e2473586fe31aae964da58.pdf,
+HTTP 200 after the site’s 301 to the Wix file host, 394033 bytes, SHA-256
+8b1ff36b1841727c95b78d0f276d010c82926a987df272ccdb93898598caaf02,
+Last-Modified Tue, 07 Jul 2026 13:02:35 GMT, CreationDate 2026-01-29
+16:53:46 UTC, Producer Microsoft: Print To PDF, page size 792 × 612 pts
+letter). This .txt is a visual transcription of the printed page, kept in
+reading order, prepared 14 November 2026 (US/Pacific). Printed title
+2026 REGISTERED SEPTAGE HAULERS. Printed footer updated: 1/29/2026,
+page 1. The footer wraps the title as “2026 REGISTERED SEPTAGE WAISTE
+HAULERS” (WAISTE as printed). The roster prints 11 named firms and no
+TOTAL line. The NAME “RANDY MASTIN SEPTIC TANK INC” overflows the NAME
+column; the C of INC crosses the grid line into the ADDRESS cell, which
+prints 12004 WATERVILLE on the first line and SWANTON RD on the second.
+HOOVER SEPTIC TANK CLEANING and ALLEN HUGHES SEPTIC TANK SERVICE wrap
+inside the NAME column. STIGER PRECAST INC. is printed with a period
+after INC.; TE PRICE INC and RANDY MASTIN SEPTIC TANK INC are not.
+HORSES SANITATION SERVICE is printed without an apostrophe. The
+Hancock Public Health sewage page (https://www.hancockph.com/sewage)
+does not link this roster. Designers, installers, inspectors, and
+registration-form PDFs on the Forms and Permits page were not
+transcribed.
