@@ -1,0 +1,173 @@
+{
+  "jurisdiction": "Fulton County, Ohio",
+  "source": {
+    "publisher": "Fulton County Health Department",
+    "title": "Septage Haulers (HAULER_LIST_08.2026.PDF)",
+    "url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+    "parent_url": "https://fultoncountyhealthdept.com/environmental/hstssewage",
+    "odh_verify_url": "https://odh.ohio.gov/know-our-programs/sewage-treatment-systems/INFORMATION-FOR-CONTRACTORS",
+    "document_date": "2026-08-10",
+    "document_date_note": "Printed footer 08/10/2026, Page 1 and Page 2, 14 TOTAL. Linked as Septage Haulers from https://fultoncountyhealthdept.com/environmental/hstssewage. Official file is a 2-page HDIS PDF (Title \u201cHDIS PDF\u201d, Author \u201cHDIS Sewage Treatment\u201d, CreationDate 2026-08-10 19:14:19 UTC, page size 612 x 792 pts letter, 8581 bytes, SHA-256 64c169688b841c51796af6eebbe7ae3c46140076612c83cbf2eecd79be7cd122, HTTP 200, Last-Modified 11 August 2026 20:04:52 GMT). The filename HAULER_LIST_08.2026.PDF and the S3 Last-Modified date are the upload/library labels; the document date used is the printed footer. The Installer PDF (INSTALLER_LIST_08.2026.pdf) and the Service Provider PDF (SERVICE_PROVIDER_LIST_08.2026.pdf) on the parent page were not transcribed. The ODH statewide bond list was not merged.",
+    "retrieved": "2026-11-15",
+    "archive": "data/sources/fulton-oh-2026-septage-haulers.pdf",
+    "archive_txt": "data/sources/fulton-oh-2026-septage-haulers.txt",
+    "limitations": "Transcribed from the Fulton County Health Department Septage Haulers PDF (HAULER_LIST_08.2026.PDF; printed footer 08/10/2026; Page 2 prints 14 TOTAL), linked as Septage Haulers from the HSTS/Sewage page (https://fultoncountyhealthdept.com/environmental/hstssewage). Publisher block on the PDF: 606 S SHOOP AVE, WAUSEON, OH 43567, Phone 1-419-337-0915, Fax 1-419-337-0561. Spellings kept as printed, including AUTOMATIC SEPTIC & WELL CORP. with the ampersand and period after CORP. and operator VICKIE PANT, KOOPS SEPTIC SERVICE LLC with no apostrophe, LAYMAN'S SEPTIC TANK CLEANING LLC and TRESSLER'S PLUMBING with the apostrophes, T.E. PRICE INC with periods in T.E. and no period after INC, RANDY MASTIN SEPTIC TANK INC with no period after INC and address 12004 STATE ROUTE 64, PRECISION WELL AND SEPTIC LLC with AND and no comma before LLC and city line NAPOLEON, OH 43567, SEPTIC & SEWER SOLUTIONS with an ampersand and no LLC and city line NAPOLEON, OH 43545, UNITED RENTALS - RELIABLE ONSITE SERVICES with the hyphen and operator line DBA: RELIABLE ONSITE SERVICES, and C & L SANITATION operator TOM STANGE GM. Street and city lines are joined with a space as printed. No local registration numbers on this PDF. Phones are shown as printed, including the leading 1-. ODH statewide bond status is not on this PDF (marked unknown). The Installer PDF and the Service Provider PDF on the parent page were not transcribed and were not merged. The ODH statewide septage-hauler bond list was not merged. A septage hauler registration is not a service-provider inspection credential. Appearance is not an endorsement. Verify with the Fulton County Health Department and ODH before you hire."
+  },
+  "record_count": 14,
+  "records": [
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "ACE DIVERSIFIED SERVICES LLC",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "FRANK ALMESTER",
+      "address": "1750 TRADE ROAD HOLLAND, OH 43528",
+      "phone": "1-419-865-4830",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "AUTOMATIC SEPTIC & WELL CORP.",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "VICKIE PANT",
+      "address": "1529 KIESWETTER ROAD HOLLAND, OH 43528",
+      "phone": "1-419-865-3456",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "C & L SANITATION",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "TOM STANGE GM",
+      "address": "PO BOX 691 PERRYSBURG, OH 43552",
+      "phone": "1-419-874-4653",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "EISEL CONSTRUCTION LLC",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "JOE EISEL",
+      "address": "PO BOX 65 BERKEY, OH 43504",
+      "phone": "1-419-277-9820",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "KOOPS SEPTIC SERVICE LLC",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "JASON KUPFERSMITH",
+      "address": "457 S WILHELM STREET HOLGATE, OH 43527",
+      "phone": "1-419-906-4176",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "LAYMAN'S SEPTIC TANK CLEANING LLC",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "RANDY LAYMAN",
+      "address": "18408 COUNTY ROAD 20 ALVORDTON, OH 43501",
+      "phone": "1-419-737-2094",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "MASTIN SITE SERVICES LLC",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "CODY MASTIN",
+      "address": "4457 COUNTY ROAD 1 SWANTON, OH 43558",
+      "phone": "1-419-408-3867",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "NORTHWEST SEPTIC SERVICE LLC",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "RODNEY ROBBINS",
+      "address": "18204 GIPE ROAD NEY, OH 43549",
+      "phone": "1-419-658-2400",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "PRECISION WELL AND SEPTIC LLC",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "CHRISTOPHER HOUCHINS",
+      "address": "N607 COUNTY ROAD 15C NAPOLEON, OH 43567",
+      "phone": "1-419-966-6321",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "RANDY MASTIN SEPTIC TANK INC",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "MANDI MASTIN",
+      "address": "12004 STATE ROUTE 64 WHITEHOUSE, OH 43571",
+      "phone": "1-419-877-5351",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "SEPTIC & SEWER SOLUTIONS",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "SHANE EBERLE",
+      "address": "14295 COUNTY ROAD Z NAPOLEON, OH 43545",
+      "phone": "1-419-533-6351",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "T.E. PRICE INC",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "KEVIN AURAND",
+      "address": "9758 REYNOLDS ROAD WAYNE, OH 43466",
+      "phone": "1-419-288-2195",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "TRESSLER'S PLUMBING",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "DOUG TRESSLER",
+      "address": "PO BOX 433 DEFIANCE, OH 43512",
+      "phone": "1-419-782-1256",
+      "odh_bond": "unknown"
+    },
+    {
+      "source_url": "https://s3.amazonaws.com/media.cloversites.com/9e/9e0d3b55-561e-49d2-ac2f-afa2ad62b513/documents/HAULER_LIST_08.2026.PDF",
+      "source_document_date": "2026-08-10",
+      "retrieved": "2026-11-15",
+      "name": "UNITED RENTALS - RELIABLE ONSITE SERVICES",
+      "role": "Fulton County Health Department registered septage hauler",
+      "operator": "DBA: RELIABLE ONSITE SERVICES",
+      "address": "1652 HOLLAND ROAD MAUMEE, OH 43537",
+      "phone": "1-313-676-1083",
+      "odh_bond": "unknown"
+    }
+  ]
+}
